@@ -1,0 +1,8074 @@
+{
+    "categories": [
+        {
+            "name": "检查"
+        },
+        {
+            "name": "所属科室"
+        },
+        {
+            "name": "药物"
+        },
+        {
+            "name": "疾病"
+        },
+        {
+            "name": "症状"
+        },
+        {
+            "name": "食品"
+        },
+        {
+            "name": "药物成分"
+        }
+    ],
+    "data": [
+        {
+            "id": 0,
+            "name": "瑞阳制药注射用磺苄西林钠",
+            "category": 6
+        },
+        {
+            "id": 1,
+            "name": "辅仁药业阿奇霉素片",
+            "category": 6
+        },
+        {
+            "id": 2,
+            "name": "鸡",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "name": "奥硝唑片",
+            "category": 5
+        },
+        {
+            "id": 4,
+            "name": "冬菇烧白菜",
+            "category": 1
+        },
+        {
+            "id": 5,
+            "name": "盐酸克林霉素棕榈酸酯分散片",
+            "category": 5
+        },
+        {
+            "id": 6,
+            "name": "心电图",
+            "category": 4
+        },
+        {
+            "id": 7,
+            "name": "头孢克肟颗粒",
+            "category": 5
+        },
+        {
+            "id": 8,
+            "name": "百利药业阿奇霉素颗粒",
+            "category": 6
+        },
+        {
+            "id": 9,
+            "name": "盛翔制药蛇胆川贝液",
+            "category": 6
+        },
+        {
+            "id": 10,
+            "name": "狗肉",
+            "category": 1
+        },
+        {
+            "id": 11,
+            "name": "科伦药业盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 12,
+            "name": "天天乐药业蛇胆川贝液",
+            "category": 6
+        },
+        {
+            "id": 13,
+            "name": "彼迪药业替硝唑片",
+            "category": 6
+        },
+        {
+            "id": 14,
+            "name": "紧张性头晕",
+            "category": 0
+        },
+        {
+            "id": 15,
+            "name": "五丝白菜卷",
+            "category": 1
+        },
+        {
+            "id": 16,
+            "name": "万托林",
+            "category": 6
+        },
+        {
+            "id": 17,
+            "name": "注射用甲泼尼龙琥珀酸钠",
+            "category": 5
+        },
+        {
+            "id": 18,
+            "name": "肺毛细血管楔压",
+            "category": 4
+        },
+        {
+            "id": 19,
+            "name": "桶状胸",
+            "category": 0
+        },
+        {
+            "id": 20,
+            "name": "鹿肉",
+            "category": 1
+        },
+        {
+            "id": 21,
+            "name": "浙江南洋药业阿奇霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 22,
+            "name": "申优",
+            "category": 6
+        },
+        {
+            "id": 23,
+            "name": "豆浆",
+            "category": 1
+        },
+        {
+            "id": 24,
+            "name": "先令氏指数",
+            "category": 4
+        },
+        {
+            "id": 25,
+            "name": "沈阳一药替硝唑片",
+            "category": 6
+        },
+        {
+            "id": 26,
+            "name": "司帕沙星分散片",
+            "category": 5
+        },
+        {
+            "id": 27,
+            "name": "头孢拉定胶囊",
+            "category": 5
+        },
+        {
+            "id": 28,
+            "name": "石药欧意红霉素肠溶片",
+            "category": 6
+        },
+        {
+            "id": 29,
+            "name": "红烧鲢鱼",
+            "category": 1
+        },
+        {
+            "id": 30,
+            "name": "利君制药红霉素肠溶片",
+            "category": 6
+        },
+        {
+            "id": 31,
+            "name": "朗瑞",
+            "category": 6
+        },
+        {
+            "id": 32,
+            "name": "番茄猪肝瘦肉汤",
+            "category": 1
+        },
+        {
+            "id": 33,
+            "name": "六安华源制药盐酸氨溴索葡萄",
+            "category": 6
+        },
+        {
+            "id": 34,
+            "name": "哈药总厂注射用磺苄西林钠",
+            "category": 6
+        },
+        {
+            "id": 35,
+            "name": "鲁抗麦迪霉素片",
+            "category": 6
+        },
+        {
+            "id": 36,
+            "name": "冬瓜草鱼汤",
+            "category": 1
+        },
+        {
+            "id": 37,
+            "name": "白云山光华头孢氨苄甲氧苄啶",
+            "category": 6
+        },
+        {
+            "id": 38,
+            "name": "七星山药业化痰平喘片",
+            "category": 6
+        },
+        {
+            "id": 39,
+            "name": "硫酸沙丁胺醇片",
+            "category": 5
+        },
+        {
+            "id": 40,
+            "name": "复方蛤青胶囊",
+            "category": 5
+        },
+        {
+            "id": 41,
+            "name": "白云山光华盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 42,
+            "name": "美通制药雷公藤多苷片",
+            "category": 6
+        },
+        {
+            "id": 43,
+            "name": "呼吸困难",
+            "category": 0
+        },
+        {
+            "id": 44,
+            "name": "咳铁锈色痰",
+            "category": 0
+        },
+        {
+            "id": 45,
+            "name": "布地奈德气雾剂",
+            "category": 5
+        },
+        {
+            "id": 46,
+            "name": "注射用磺苄西林钠",
+            "category": 6
+        },
+        {
+            "id": 47,
+            "name": "注射用呋塞米",
+            "category": 5
+        },
+        {
+            "id": 48,
+            "name": "恒益药业琥乙红霉素颗粒",
+            "category": 6
+        },
+        {
+            "id": 49,
+            "name": "盐酸妥洛特罗片",
+            "category": 5
+        },
+        {
+            "id": 50,
+            "name": "小白菜",
+            "category": 1
+        },
+        {
+            "id": 51,
+            "name": "金诃藏药仁青芒觉",
+            "category": 6
+        },
+        {
+            "id": 52,
+            "name": "北京中新制药琥乙红霉素片",
+            "category": 6
+        },
+        {
+            "id": 53,
+            "name": "杂粮粥",
+            "category": 1
+        },
+        {
+            "id": 54,
+            "name": "乏力",
+            "category": 0
+        },
+        {
+            "id": 55,
+            "name": "如意定喘丸",
+            "category": 5
+        },
+        {
+            "id": 56,
+            "name": "江苏长江阿奇霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 57,
+            "name": "肺活量（VC）",
+            "category": 4
+        },
+        {
+            "id": 58,
+            "name": "酶联免疫吸附试验",
+            "category": 4
+        },
+        {
+            "id": 59,
+            "name": "邦琪药业百咳静糖浆",
+            "category": 6
+        },
+        {
+            "id": 60,
+            "name": "阿奇霉素胶囊",
+            "category": 5
+        },
+        {
+            "id": 61,
+            "name": "普德药业注射用盐酸溴己新",
+            "category": 6
+        },
+        {
+            "id": 62,
+            "name": "鼻塞",
+            "category": 0
+        },
+        {
+            "id": 63,
+            "name": "丰原制药注射用盐酸溴己新",
+            "category": 6
+        },
+        {
+            "id": 64,
+            "name": "发烧",
+            "category": 0
+        },
+        {
+            "id": 65,
+            "name": "头孢氨苄胶囊",
+            "category": 5
+        },
+        {
+            "id": 66,
+            "name": "艾富西药业盐酸氨溴索葡萄糖",
+            "category": 6
+        },
+        {
+            "id": 67,
+            "name": "米乐松",
+            "category": 6
+        },
+        {
+            "id": 68,
+            "name": "恶心",
+            "category": 0
+        },
+        {
+            "id": 69,
+            "name": "白及颗粒",
+            "category": 5
+        },
+        {
+            "id": 70,
+            "name": "辣椒(红、尖、干)",
+            "category": 1
+        },
+        {
+            "id": 71,
+            "name": "肺大疱",
+            "category": 2
+        },
+        {
+            "id": 72,
+            "name": "鲤鱼",
+            "category": 1
+        },
+        {
+            "id": 73,
+            "name": "上海新亚头孢克肟分散片",
+            "category": 6
+        },
+        {
+            "id": 74,
+            "name": "罗欣药业注射用盐酸氨溴索",
+            "category": 6
+        },
+        {
+            "id": 75,
+            "name": "蜀阳药业人血白蛋白",
+            "category": 6
+        },
+        {
+            "id": 76,
+            "name": "肺活量体重指数",
+            "category": 4
+        },
+        {
+            "id": 77,
+            "name": "华瑞联合制药头孢氨苄甲氧苄",
+            "category": 6
+        },
+        {
+            "id": 78,
+            "name": "大连天宇制药阿奇霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 79,
+            "name": "放射性肺炎",
+            "category": 2
+        },
+        {
+            "id": 80,
+            "name": "蛇胆川贝液",
+            "category": 5
+        },
+        {
+            "id": 81,
+            "name": "利君制药琥乙红霉素片",
+            "category": 6
+        },
+        {
+            "id": 82,
+            "name": "盐酸特比萘芬凝胶",
+            "category": 5
+        },
+        {
+            "id": 83,
+            "name": "振兴氨茶碱片",
+            "category": 6
+        },
+        {
+            "id": 84,
+            "name": "间歇性头晕",
+            "category": 0
+        },
+        {
+            "id": 85,
+            "name": "甲硝唑片",
+            "category": 5
+        },
+        {
+            "id": 86,
+            "name": "锅塌番茄",
+            "category": 1
+        },
+        {
+            "id": 87,
+            "name": "豆薯小米粥",
+            "category": 1
+        },
+        {
+            "id": 88,
+            "name": "大月晶丸",
+            "category": 5
+        },
+        {
+            "id": 89,
+            "name": "东药盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 90,
+            "name": "替硝唑片",
+            "category": 5
+        },
+        {
+            "id": 91,
+            "name": "鲁抗赛特替硝唑片",
+            "category": 6
+        },
+        {
+            "id": 92,
+            "name": "成人呼吸窘迫综合征",
+            "category": 2
+        },
+        {
+            "id": 93,
+            "name": "拌肚丝白菜",
+            "category": 1
+        },
+        {
+            "id": 94,
+            "name": "噻托溴铵粉雾剂",
+            "category": 5
+        },
+        {
+            "id": 95,
+            "name": "抗肾小球基底膜抗体测定（AGBM）",
+            "category": 4
+        },
+        {
+            "id": 96,
+            "name": "丽珠制药替硝唑片",
+            "category": 6
+        },
+        {
+            "id": 97,
+            "name": "海南制药厂蛇胆川贝液",
+            "category": 6
+        },
+        {
+            "id": 98,
+            "name": "远大医药黄石飞云制药雷公藤",
+            "category": 6
+        },
+        {
+            "id": 99,
+            "name": "樱桃番茄",
+            "category": 1
+        },
+        {
+            "id": 100,
+            "name": "全星制药注射用盐酸头孢替安",
+            "category": 6
+        },
+        {
+            "id": 101,
+            "name": "康美药业诺氟沙星胶囊",
+            "category": 6
+        },
+        {
+            "id": 102,
+            "name": "桂林南药布美他尼片",
+            "category": 6
+        },
+        {
+            "id": 103,
+            "name": "百合花生汤",
+            "category": 1
+        },
+        {
+            "id": 104,
+            "name": "油菜",
+            "category": 1
+        },
+        {
+            "id": 105,
+            "name": "大量羊水吸入",
+            "category": 2
+        },
+        {
+            "id": 106,
+            "name": "奶油",
+            "category": 1
+        },
+        {
+            "id": 107,
+            "name": "吸气时有蝉鸣音",
+            "category": 0
+        },
+        {
+            "id": 108,
+            "name": "肺泡气-动脉血氧分压差",
+            "category": 4
+        },
+        {
+            "id": 109,
+            "name": "泡莲藕",
+            "category": 1
+        },
+        {
+            "id": 110,
+            "name": "百合糖粥",
+            "category": 1
+        },
+        {
+            "id": 111,
+            "name": "鲜芦根粥",
+            "category": 1
+        },
+        {
+            "id": 112,
+            "name": "肺活检",
+            "category": 4
+        },
+        {
+            "id": 113,
+            "name": "痰液细菌涂片检查",
+            "category": 4
+        },
+        {
+            "id": 114,
+            "name": "海蚌",
+            "category": 1
+        },
+        {
+            "id": 115,
+            "name": "黄瓜拌皮丝",
+            "category": 1
+        },
+        {
+            "id": 116,
+            "name": "涟水制药地塞米松磷酸钠注射",
+            "category": 6
+        },
+        {
+            "id": 117,
+            "name": "达发新",
+            "category": 6
+        },
+        {
+            "id": 118,
+            "name": "番茄鸡蛋煎饼",
+            "category": 1
+        },
+        {
+            "id": 119,
+            "name": "头孢克肟分散片",
+            "category": 5
+        },
+        {
+            "id": 120,
+            "name": "德源生物人血白蛋白",
+            "category": 6
+        },
+        {
+            "id": 121,
+            "name": "苏州三药盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 122,
+            "name": "河南羚锐制药盐酸克林霉素胶",
+            "category": 6
+        },
+        {
+            "id": 123,
+            "name": "泰邦生物人血白蛋白",
+            "category": 6
+        },
+        {
+            "id": 124,
+            "name": "百合汤",
+            "category": 1
+        },
+        {
+            "id": 125,
+            "name": "倍佳",
+            "category": 6
+        },
+        {
+            "id": 126,
+            "name": "瑞尔医药盐酸班布特罗片",
+            "category": 6
+        },
+        {
+            "id": 127,
+            "name": "山楂糕",
+            "category": 1
+        },
+        {
+            "id": 128,
+            "name": "横膈低平",
+            "category": 0
+        },
+        {
+            "id": 129,
+            "name": "澳利达奈德注射用盐酸溴己新",
+            "category": 6
+        },
+        {
+            "id": 130,
+            "name": "赣南制药喷托维林氯化铵糖浆",
+            "category": 6
+        },
+        {
+            "id": 131,
+            "name": "伊曲康唑胶囊",
+            "category": 5
+        },
+        {
+            "id": 132,
+            "name": "虾皮香芹燕麦粥",
+            "category": 1
+        },
+        {
+            "id": 133,
+            "name": "肺容量测定",
+            "category": 4
+        },
+        {
+            "id": 134,
+            "name": "福邦药业阿奇霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 135,
+            "name": "太原药业甲硝唑片",
+            "category": 6
+        },
+        {
+            "id": 136,
+            "name": "地塞米松磷酸钠注射液",
+            "category": 5
+        },
+        {
+            "id": 137,
+            "name": "痰呈粘液脓性",
+            "category": 0
+        },
+        {
+            "id": 138,
+            "name": "脑电图检查",
+            "category": 4
+        },
+        {
+            "id": 139,
+            "name": "纽兰药业小青龙颗粒",
+            "category": 6
+        },
+        {
+            "id": 140,
+            "name": "海螺",
+            "category": 1
+        },
+        {
+            "id": 141,
+            "name": "花生杏仁粥",
+            "category": 1
+        },
+        {
+            "id": 142,
+            "name": "衡博来",
+            "category": 6
+        },
+        {
+            "id": 143,
+            "name": "希舒美",
+            "category": 6
+        },
+        {
+            "id": 144,
+            "name": "浅感觉减退或缺失",
+            "category": 0
+        },
+        {
+            "id": 145,
+            "name": "通宣理肺丸",
+            "category": 5
+        },
+        {
+            "id": 146,
+            "name": "布美他尼片",
+            "category": 5
+        },
+        {
+            "id": 147,
+            "name": "康普药业盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 148,
+            "name": "博利康尼",
+            "category": 6
+        },
+        {
+            "id": 149,
+            "name": "哈药总厂托西酸舒他西林胶囊",
+            "category": 6
+        },
+        {
+            "id": 150,
+            "name": "湖南九典制药盐酸班布特罗胶",
+            "category": 6
+        },
+        {
+            "id": 151,
+            "name": "诺氟沙星胶囊",
+            "category": 5
+        },
+        {
+            "id": 152,
+            "name": "空心菜",
+            "category": 1
+        },
+        {
+            "id": 153,
+            "name": "噻托溴铵粉吸入剂",
+            "category": 5
+        },
+        {
+            "id": 154,
+            "name": "鲢鱼",
+            "category": 1
+        },
+        {
+            "id": 155,
+            "name": "得恩德制药雷公藤多苷片",
+            "category": 6
+        },
+        {
+            "id": 156,
+            "name": "肺部检查",
+            "category": 4
+        },
+        {
+            "id": 157,
+            "name": "南通中华药业硝酸咪康唑乳膏",
+            "category": 6
+        },
+        {
+            "id": 158,
+            "name": "黄瓜拌香菜",
+            "category": 1
+        },
+        {
+            "id": 159,
+            "name": "百合双耳鸡蛋羹",
+            "category": 1
+        },
+        {
+            "id": 160,
+            "name": "新峰药业盐酸利多卡因注射液",
+            "category": 6
+        },
+        {
+            "id": 161,
+            "name": "咳出棕色痰栓",
+            "category": 0
+        },
+        {
+            "id": 162,
+            "name": "金路捷",
+            "category": 6
+        },
+        {
+            "id": 163,
+            "name": "小青龙合剂",
+            "category": 5
+        },
+        {
+            "id": 164,
+            "name": "痉挛性咳嗽",
+            "category": 0
+        },
+        {
+            "id": 165,
+            "name": "锦华药业盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 166,
+            "name": "黑龙江天龙药业联苯苄唑乳膏",
+            "category": 6
+        },
+        {
+            "id": 167,
+            "name": "玉竹白菜",
+            "category": 1
+        },
+        {
+            "id": 168,
+            "name": "苏肽生",
+            "category": 6
+        },
+        {
+            "id": 169,
+            "name": "汉森制药甲硝唑片",
+            "category": 6
+        },
+        {
+            "id": 170,
+            "name": "北杏炖雪梨",
+            "category": 1
+        },
+        {
+            "id": 171,
+            "name": "五洲通药业硝酸咪康唑乳膏",
+            "category": 6
+        },
+        {
+            "id": 172,
+            "name": "俞氏阿奇霉素颗粒",
+            "category": 6
+        },
+        {
+            "id": 173,
+            "name": "钼靶X线检查",
+            "category": 4
+        },
+        {
+            "id": 174,
+            "name": "赤贝",
+            "category": 1
+        },
+        {
+            "id": 175,
+            "name": "紫苏粥",
+            "category": 1
+        },
+        {
+            "id": 176,
+            "name": "武汉生物人血白蛋白",
+            "category": 6
+        },
+        {
+            "id": 177,
+            "name": "畏寒",
+            "category": 0
+        },
+        {
+            "id": 178,
+            "name": "潇然",
+            "category": 6
+        },
+        {
+            "id": 179,
+            "name": "最大呼气流量-容积曲线（MEFV）",
+            "category": 4
+        },
+        {
+            "id": 180,
+            "name": "北海阳光药业阿奇霉素颗粒",
+            "category": 6
+        },
+        {
+            "id": 181,
+            "name": "央宗药业蒺藜药酒",
+            "category": 6
+        },
+        {
+            "id": 182,
+            "name": "注射用美洛西林钠舒巴坦钠",
+            "category": 5
+        },
+        {
+            "id": 183,
+            "name": "海虾",
+            "category": 1
+        },
+        {
+            "id": 184,
+            "name": "茄子",
+            "category": 1
+        },
+        {
+            "id": 185,
+            "name": "美卓乐",
+            "category": 6
+        },
+        {
+            "id": 186,
+            "name": "菊花芦根茶",
+            "category": 1
+        },
+        {
+            "id": 187,
+            "name": "肺念珠菌病",
+            "category": 2
+        },
+        {
+            "id": 188,
+            "name": "排骨汤",
+            "category": 1
+        },
+        {
+            "id": 189,
+            "name": "眼底荧光血管造影",
+            "category": 4
+        },
+        {
+            "id": 190,
+            "name": "乌梅粥",
+            "category": 1
+        },
+        {
+            "id": 191,
+            "name": "番茄苹果芝麻蜜",
+            "category": 1
+        },
+        {
+            "id": 192,
+            "name": "香菜",
+            "category": 1
+        },
+        {
+            "id": 193,
+            "name": "多发性神经炎",
+            "category": 0
+        },
+        {
+            "id": 194,
+            "name": "欣得生",
+            "category": 6
+        },
+        {
+            "id": 195,
+            "name": "银诺克肺宝蛤蚧定喘丸",
+            "category": 6
+        },
+        {
+            "id": 196,
+            "name": "永定制药百咳静糖浆",
+            "category": 6
+        },
+        {
+            "id": 197,
+            "name": "山楂乌梅饮",
+            "category": 1
+        },
+        {
+            "id": 198,
+            "name": "东信药业琥乙红霉素颗粒",
+            "category": 6
+        },
+        {
+            "id": 199,
+            "name": "北京益民药业盐酸利多卡因注",
+            "category": 6
+        },
+        {
+            "id": 200,
+            "name": "其他科室",
+            "category": 3
+        },
+        {
+            "id": 201,
+            "name": "生芦根粥",
+            "category": 1
+        },
+        {
+            "id": 202,
+            "name": "儿科",
+            "category": 3
+        },
+        {
+            "id": 203,
+            "name": "体重减轻",
+            "category": 0
+        },
+        {
+            "id": 204,
+            "name": "健生制药阿奇霉素分散片",
+            "category": 6
+        },
+        {
+            "id": 205,
+            "name": "迪瑞制药琥乙红霉素颗粒",
+            "category": 6
+        },
+        {
+            "id": 206,
+            "name": "一秒用力呼出量／用力肺活量比值",
+            "category": 4
+        },
+        {
+            "id": 207,
+            "name": "二硫化碳中毒",
+            "category": 2
+        },
+        {
+            "id": 208,
+            "name": "凉拌莲藕",
+            "category": 1
+        },
+        {
+            "id": 209,
+            "name": "肺和胸膜听诊",
+            "category": 4
+        },
+        {
+            "id": 210,
+            "name": "急性面容",
+            "category": 0
+        },
+        {
+            "id": 211,
+            "name": "番茄羊肉汤",
+            "category": 1
+        },
+        {
+            "id": 212,
+            "name": "华南药业红霉素肠溶片",
+            "category": 6
+        },
+        {
+            "id": 213,
+            "name": "素炒小白菜",
+            "category": 1
+        },
+        {
+            "id": 214,
+            "name": "伏枝",
+            "category": 6
+        },
+        {
+            "id": 215,
+            "name": "易坦静",
+            "category": 6
+        },
+        {
+            "id": 216,
+            "name": "变应性咳嗽",
+            "category": 0
+        },
+        {
+            "id": 217,
+            "name": "彼迪药业阿奇霉素分散片",
+            "category": 6
+        },
+        {
+            "id": 218,
+            "name": "益佳清",
+            "category": 6
+        },
+        {
+            "id": 219,
+            "name": "痰液常规检查",
+            "category": 4
+        },
+        {
+            "id": 220,
+            "name": "星斗药业盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 221,
+            "name": "油麦菜",
+            "category": 1
+        },
+        {
+            "id": 222,
+            "name": "东信药业蛇胆川贝液",
+            "category": 6
+        },
+        {
+            "id": 223,
+            "name": "桂林华信环吡酮胺乳膏",
+            "category": 6
+        },
+        {
+            "id": 224,
+            "name": "咯血",
+            "category": 0
+        },
+        {
+            "id": 225,
+            "name": "凉拌番茄",
+            "category": 1
+        },
+        {
+            "id": 226,
+            "name": "博康健制药盐酸氨溴索葡萄糖",
+            "category": 6
+        },
+        {
+            "id": 227,
+            "name": "东药阿奇霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 228,
+            "name": "阿奇霉素颗粒",
+            "category": 5
+        },
+        {
+            "id": 229,
+            "name": "北京同仁堂百咳静糖浆",
+            "category": 6
+        },
+        {
+            "id": 230,
+            "name": "亚宝药业甲硝唑片",
+            "category": 6
+        },
+        {
+            "id": 231,
+            "name": "肺炎杆菌肺炎",
+            "category": 2
+        },
+        {
+            "id": 232,
+            "name": "迪诺制药替硝唑片",
+            "category": 6
+        },
+        {
+            "id": 233,
+            "name": "迪沙药业甲硝唑维B6片",
+            "category": 6
+        },
+        {
+            "id": 234,
+            "name": "羊肉(瘦)",
+            "category": 1
+        },
+        {
+            "id": 235,
+            "name": "尤金",
+            "category": 6
+        },
+        {
+            "id": 236,
+            "name": "金峰制药盐酸氨溴索葡萄糖注",
+            "category": 6
+        },
+        {
+            "id": 237,
+            "name": "黄瓜三丝汤",
+            "category": 1
+        },
+        {
+            "id": 238,
+            "name": "宜昌人福盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 239,
+            "name": "达力芬",
+            "category": 6
+        },
+        {
+            "id": 240,
+            "name": "头孢克洛颗粒",
+            "category": 5
+        },
+        {
+            "id": 241,
+            "name": "肺泡蛋白沉着症",
+            "category": 2
+        },
+        {
+            "id": 242,
+            "name": "十一味金色丸",
+            "category": 5
+        },
+        {
+            "id": 243,
+            "name": "辽宁海思科注射用甲泼尼龙琥",
+            "category": 6
+        },
+        {
+            "id": 244,
+            "name": "圆白菜",
+            "category": 1
+        },
+        {
+            "id": 245,
+            "name": "奇莫欣",
+            "category": 6
+        },
+        {
+            "id": 246,
+            "name": "思力华",
+            "category": 6
+        },
+        {
+            "id": 247,
+            "name": "痰液中寄生虫和虫卵",
+            "category": 4
+        },
+        {
+            "id": 248,
+            "name": "肺-胸膜阿米巴病",
+            "category": 2
+        },
+        {
+            "id": 249,
+            "name": "氨溴特罗口服溶液",
+            "category": 5
+        },
+        {
+            "id": 250,
+            "name": "安必君氨苄西林胶囊",
+            "category": 6
+        },
+        {
+            "id": 251,
+            "name": "注射用鼠神经生长因子",
+            "category": 5
+        },
+        {
+            "id": 252,
+            "name": "智同生物注射用盐酸溴己新",
+            "category": 6
+        },
+        {
+            "id": 253,
+            "name": "血常规",
+            "category": 4
+        },
+        {
+            "id": 254,
+            "name": "同济堂制药盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 255,
+            "name": "联邦左福康盐酸左氧氟沙星胶",
+            "category": 6
+        },
+        {
+            "id": 256,
+            "name": "西藏甘露十一味金色丸",
+            "category": 6
+        },
+        {
+            "id": 257,
+            "name": "恩经复",
+            "category": 6
+        },
+        {
+            "id": 258,
+            "name": "萝卜豆腐汤",
+            "category": 1
+        },
+        {
+            "id": 259,
+            "name": "海斯制药注射用盐酸溴己新",
+            "category": 6
+        },
+        {
+            "id": 260,
+            "name": "中国大冢盐酸利多卡因注射液",
+            "category": 6
+        },
+        {
+            "id": 261,
+            "name": "大叶性肺炎",
+            "category": 2
+        },
+        {
+            "id": 262,
+            "name": "诚信制药盐酸妥洛特罗片",
+            "category": 6
+        },
+        {
+            "id": 263,
+            "name": "番茄",
+            "category": 1
+        },
+        {
+            "id": 264,
+            "name": "咖啡",
+            "category": 1
+        },
+        {
+            "id": 265,
+            "name": "美扶",
+            "category": 6
+        },
+        {
+            "id": 266,
+            "name": "隐血试验与含铁血黄素检查",
+            "category": 4
+        },
+        {
+            "id": 267,
+            "name": "残气量／肺总量比值（RV/TLC）",
+            "category": 4
+        },
+        {
+            "id": 268,
+            "name": "骨髓象分析",
+            "category": 4
+        },
+        {
+            "id": 269,
+            "name": "双林生物人血白蛋白",
+            "category": 6
+        },
+        {
+            "id": 270,
+            "name": "仙琚制药克霉唑阴道片",
+            "category": 6
+        },
+        {
+            "id": 271,
+            "name": "党参粥",
+            "category": 1
+        },
+        {
+            "id": 272,
+            "name": "骨膜炎",
+            "category": 0
+        },
+        {
+            "id": 273,
+            "name": "腹泻",
+            "category": 0
+        },
+        {
+            "id": 274,
+            "name": "云门药业头孢氨苄甲氧苄啶片",
+            "category": 6
+        },
+        {
+            "id": 275,
+            "name": "江西诚志永丰蛇胆川贝液",
+            "category": 6
+        },
+        {
+            "id": 276,
+            "name": "痰液中细胞分类",
+            "category": 4
+        },
+        {
+            "id": 277,
+            "name": "抽搐",
+            "category": 0
+        },
+        {
+            "id": 278,
+            "name": "肺纹理增粗",
+            "category": 0
+        },
+        {
+            "id": 279,
+            "name": "二羟丙茶碱片",
+            "category": 5
+        },
+        {
+            "id": 280,
+            "name": "番茄牛肉",
+            "category": 1
+        },
+        {
+            "id": 281,
+            "name": "氯霉素片",
+            "category": 5
+        },
+        {
+            "id": 282,
+            "name": "大蒜",
+            "category": 1
+        },
+        {
+            "id": 283,
+            "name": "国药国瑞注射用盐酸溴己新",
+            "category": 6
+        },
+        {
+            "id": 284,
+            "name": "黏稠或脓性痰伴...",
+            "category": 0
+        },
+        {
+            "id": 285,
+            "name": "阿莫西林颗粒",
+            "category": 5
+        },
+        {
+            "id": 286,
+            "name": "耸肩喘息",
+            "category": 0
+        },
+        {
+            "id": 287,
+            "name": "番茄牛肉片",
+            "category": 1
+        },
+        {
+            "id": 288,
+            "name": "赛乐欣",
+            "category": 6
+        },
+        {
+            "id": 289,
+            "name": "松泰斯",
+            "category": 6
+        },
+        {
+            "id": 290,
+            "name": "圣大（张家口）头孢氨苄甲氧",
+            "category": 6
+        },
+        {
+            "id": 291,
+            "name": "德远药业雷公藤多苷片",
+            "category": 6
+        },
+        {
+            "id": 292,
+            "name": "鸡蛋清",
+            "category": 1
+        },
+        {
+            "id": 293,
+            "name": "雷公藤多苷片",
+            "category": 5
+        },
+        {
+            "id": 294,
+            "name": "嗜酸性粒细胞增多",
+            "category": 0
+        },
+        {
+            "id": 295,
+            "name": "北京曙光药业红霉素肠溶片",
+            "category": 6
+        },
+        {
+            "id": 296,
+            "name": "无效腔气量／潮气量比值",
+            "category": 4
+        },
+        {
+            "id": 297,
+            "name": "东药替硝唑片",
+            "category": 6
+        },
+        {
+            "id": 298,
+            "name": "惊厥",
+            "category": 0
+        },
+        {
+            "id": 299,
+            "name": "南瓜",
+            "category": 1
+        },
+        {
+            "id": 300,
+            "name": "红枣银耳粥",
+            "category": 1
+        },
+        {
+            "id": 301,
+            "name": "万方制药肺气肿片",
+            "category": 6
+        },
+        {
+            "id": 302,
+            "name": "紧张性头痛",
+            "category": 0
+        },
+        {
+            "id": 303,
+            "name": "黄河药业盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 304,
+            "name": "湘江药业阿奇霉素颗粒",
+            "category": 6
+        },
+        {
+            "id": 305,
+            "name": "闫鹏辉",
+            "category": 0
+        },
+        {
+            "id": 306,
+            "name": "首儿药厂小青龙颗粒",
+            "category": 6
+        },
+        {
+            "id": 307,
+            "name": "阿奇霉素分散片",
+            "category": 5
+        },
+        {
+            "id": 308,
+            "name": "头孢丙烯分散片",
+            "category": 5
+        },
+        {
+            "id": 309,
+            "name": "盐酸克林霉素胶囊",
+            "category": 5
+        },
+        {
+            "id": 310,
+            "name": "百咳静糖浆",
+            "category": 5
+        },
+        {
+            "id": 311,
+            "name": "大楼病综合征",
+            "category": 2
+        },
+        {
+            "id": 312,
+            "name": "咯血伴发热",
+            "category": 0
+        },
+        {
+            "id": 313,
+            "name": "肉末冬瓜",
+            "category": 1
+        },
+        {
+            "id": 314,
+            "name": "联苯苄唑乳膏",
+            "category": 5
+        },
+        {
+            "id": 315,
+            "name": "南光注射用甲泼尼龙琥珀酸钠",
+            "category": 6
+        },
+        {
+            "id": 316,
+            "name": "锦华药业诺氟沙星胶囊",
+            "category": 6
+        },
+        {
+            "id": 317,
+            "name": "感觉障碍",
+            "category": 0
+        },
+        {
+            "id": 318,
+            "name": "豆腐干炒韭菜",
+            "category": 1
+        },
+        {
+            "id": 319,
+            "name": "石药欧意枸橼酸喷托维林片",
+            "category": 6
+        },
+        {
+            "id": 320,
+            "name": "紫绀",
+            "category": 0
+        },
+        {
+            "id": 321,
+            "name": "硝酸咪康唑乳膏",
+            "category": 5
+        },
+        {
+            "id": 322,
+            "name": "小黄瓜西瓜汁",
+            "category": 1
+        },
+        {
+            "id": 323,
+            "name": "国医堂制药如意定喘丸",
+            "category": 6
+        },
+        {
+            "id": 324,
+            "name": "番茄羊肉蛋花汤",
+            "category": 1
+        },
+        {
+            "id": 325,
+            "name": "罗汉果雪耳鸡汤",
+            "category": 1
+        },
+        {
+            "id": 326,
+            "name": "甲泼尼龙片",
+            "category": 5
+        },
+        {
+            "id": 327,
+            "name": "祛痰止咳胶囊",
+            "category": 5
+        },
+        {
+            "id": 328,
+            "name": "津华晖星替硝唑片",
+            "category": 6
+        },
+        {
+            "id": 329,
+            "name": "珠海联邦头孢拉定胶囊",
+            "category": 6
+        },
+        {
+            "id": 330,
+            "name": "利君制药阿奇霉素分散片",
+            "category": 6
+        },
+        {
+            "id": 331,
+            "name": "胸腺肽肠溶片",
+            "category": 5
+        },
+        {
+            "id": 332,
+            "name": "头孢氨苄甲氧苄啶片",
+            "category": 6
+        },
+        {
+            "id": 333,
+            "name": "肺阴虚",
+            "category": 0
+        },
+        {
+            "id": 334,
+            "name": "肺部出血",
+            "category": 0
+        },
+        {
+            "id": 335,
+            "name": "圣泰转移因子口服溶液",
+            "category": 6
+        },
+        {
+            "id": 336,
+            "name": "蛋白尿",
+            "category": 0
+        },
+        {
+            "id": 337,
+            "name": "唐山红星硝酸益康唑溶液",
+            "category": 6
+        },
+        {
+            "id": 338,
+            "name": "硫酸沙丁胺醇气雾剂",
+            "category": 5
+        },
+        {
+            "id": 339,
+            "name": "琥乙红霉素片",
+            "category": 5
+        },
+        {
+            "id": 340,
+            "name": "山药",
+            "category": 1
+        },
+        {
+            "id": 341,
+            "name": "肉松",
+            "category": 1
+        },
+        {
+            "id": 342,
+            "name": "信谊布地奈德气雾剂",
+            "category": 6
+        },
+        {
+            "id": 343,
+            "name": "深吸气量（IC）",
+            "category": 4
+        },
+        {
+            "id": 344,
+            "name": "山楂红糖粥",
+            "category": 1
+        },
+        {
+            "id": 345,
+            "name": "丽珠奇乐",
+            "category": 6
+        },
+        {
+            "id": 346,
+            "name": "盐酸特比萘芬溶液",
+            "category": 5
+        },
+        {
+            "id": 347,
+            "name": "红霉素肠溶片",
+            "category": 5
+        },
+        {
+            "id": 348,
+            "name": "番茄汁",
+            "category": 1
+        },
+        {
+            "id": 349,
+            "name": "全星制药注射用布美他尼",
+            "category": 6
+        },
+        {
+            "id": 350,
+            "name": "低热",
+            "category": 0
+        },
+        {
+            "id": 351,
+            "name": "鸭梨粥",
+            "category": 1
+        },
+        {
+            "id": 352,
+            "name": "开林",
+            "category": 6
+        },
+        {
+            "id": 353,
+            "name": "鲜百合烧肉",
+            "category": 1
+        },
+        {
+            "id": 355,
+            "name": "亚太药业盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 356,
+            "name": "生菜",
+            "category": 1
+        },
+        {
+            "id": 357,
+            "name": "东信药业琥乙红霉素片",
+            "category": 6
+        },
+        {
+            "id": 358,
+            "name": "帮备",
+            "category": 6
+        },
+        {
+            "id": 359,
+            "name": "内科",
+            "category": 3
+        },
+        {
+            "id": 360,
+            "name": "免疫电泳",
+            "category": 4
+        },
+        {
+            "id": 361,
+            "name": "广西灵峰药业蛇胆川贝液",
+            "category": 6
+        },
+        {
+            "id": 362,
+            "name": "小麦粥",
+            "category": 1
+        },
+        {
+            "id": 363,
+            "name": "贵州汉方药业雷公藤多苷片",
+            "category": 6
+        },
+        {
+            "id": 364,
+            "name": "盐酸班布特罗胶囊",
+            "category": 5
+        },
+        {
+            "id": 365,
+            "name": "宜昌长江阿奇霉素分散片",
+            "category": 6
+        },
+        {
+            "id": 366,
+            "name": "杭州民生药业盐酸克林霉素胶",
+            "category": 6
+        },
+        {
+            "id": 367,
+            "name": "番茄三素",
+            "category": 1
+        },
+        {
+            "id": 368,
+            "name": "呼吸内科",
+            "category": 3
+        },
+        {
+            "id": 369,
+            "name": "金诃藏药大月晶丸",
+            "category": 6
+        },
+        {
+            "id": 370,
+            "name": "一品红盐酸克林霉素棕榈酸酯",
+            "category": 6
+        },
+        {
+            "id": 371,
+            "name": "海力制药阿奇霉素颗粒",
+            "category": 6
+        },
+        {
+            "id": 372,
+            "name": "咳嗽伴胸痛",
+            "category": 0
+        },
+        {
+            "id": 373,
+            "name": "硫酸特布他林雾化液",
+            "category": 5
+        },
+        {
+            "id": 374,
+            "name": "百合炖猪蹄",
+            "category": 1
+        },
+        {
+            "id": 375,
+            "name": "北京京丰制药集团诺氟沙星胶",
+            "category": 6
+        },
+        {
+            "id": 376,
+            "name": "海王阿奇霉素片",
+            "category": 6
+        },
+        {
+            "id": 377,
+            "name": "蛤蚧定喘丸",
+            "category": 5
+        },
+        {
+            "id": 378,
+            "name": "鲈鱼",
+            "category": 1
+        },
+        {
+            "id": 379,
+            "name": "盐酸氨溴索葡萄糖注射液",
+            "category": 5
+        },
+        {
+            "id": 380,
+            "name": "小支气管粘膜水肿",
+            "category": 0
+        },
+        {
+            "id": 381,
+            "name": "胸部CT检查",
+            "category": 4
+        },
+        {
+            "id": 382,
+            "name": "甲硝唑维B6片",
+            "category": 5
+        },
+        {
+            "id": 383,
+            "name": "纤维支气管镜检查",
+            "category": 4
+        },
+        {
+            "id": 384,
+            "name": "曲靖药业白及颗粒",
+            "category": 6
+        },
+        {
+            "id": 385,
+            "name": "雪梨饮",
+            "category": 1
+        },
+        {
+            "id": 386,
+            "name": "头孢拉定分散片",
+            "category": 5
+        },
+        {
+            "id": 387,
+            "name": "石药欧意氨茶碱片",
+            "category": 6
+        },
+        {
+            "id": 388,
+            "name": "鱼腥草",
+            "category": 1
+        },
+        {
+            "id": 389,
+            "name": "海斯制药盐酸利多卡因注射液",
+            "category": 6
+        },
+        {
+            "id": 390,
+            "name": "赣南海欣转移因子口服溶液",
+            "category": 6
+        },
+        {
+            "id": 391,
+            "name": "环吡酮胺乳膏",
+            "category": 5
+        },
+        {
+            "id": 392,
+            "name": "惠普森穿心莲内酯片",
+            "category": 6
+        },
+        {
+            "id": 393,
+            "name": "达仁堂通宣理肺丸",
+            "category": 6
+        },
+        {
+            "id": 394,
+            "name": "昏迷",
+            "category": 0
+        },
+        {
+            "id": 395,
+            "name": "白云山医药琥乙红霉素片",
+            "category": 6
+        },
+        {
+            "id": 396,
+            "name": "盗汗",
+            "category": 0
+        },
+        {
+            "id": 397,
+            "name": "氨茶碱片",
+            "category": 5
+        },
+        {
+            "id": 398,
+            "name": "鲁抗注射用头孢唑林钠",
+            "category": 6
+        },
+        {
+            "id": 399,
+            "name": "台城制药盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 400,
+            "name": "海鲸药业注射用盐酸溴己新",
+            "category": 6
+        },
+        {
+            "id": 401,
+            "name": "氟康唑胶囊",
+            "category": 5
+        },
+        {
+            "id": 402,
+            "name": "百日咳",
+            "category": 2
+        },
+        {
+            "id": 403,
+            "name": "广东华南依托红霉素片",
+            "category": 6
+        },
+        {
+            "id": 404,
+            "name": "单纯性肺嗜酸粒细胞浸润症",
+            "category": 2
+        },
+        {
+            "id": 405,
+            "name": "肺功能检查",
+            "category": 4
+        },
+        {
+            "id": 406,
+            "name": "大豆",
+            "category": 1
+        },
+        {
+            "id": 407,
+            "name": "硫酸特布他林片",
+            "category": 5
+        },
+        {
+            "id": 408,
+            "name": "爱普森药业阿奇霉素片",
+            "category": 6
+        },
+        {
+            "id": 409,
+            "name": "广东环球制药茶碱缓释片",
+            "category": 6
+        },
+        {
+            "id": 410,
+            "name": "喷托维林氯化铵糖浆",
+            "category": 5
+        },
+        {
+            "id": 411,
+            "name": "硝酸咪康唑栓",
+            "category": 5
+        },
+        {
+            "id": 412,
+            "name": "天方药业盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 413,
+            "name": "哈药总厂头孢氨苄甲氧苄啶片",
+            "category": 6
+        },
+        {
+            "id": 414,
+            "name": "鲫鱼",
+            "category": 1
+        },
+        {
+            "id": 415,
+            "name": "头晕",
+            "category": 0
+        },
+        {
+            "id": 416,
+            "name": "诺健",
+            "category": 6
+        },
+        {
+            "id": 417,
+            "name": "依托红霉素片",
+            "category": 5
+        },
+        {
+            "id": 418,
+            "name": "桑海制药喷托维林氯化铵糖浆",
+            "category": 6
+        },
+        {
+            "id": 419,
+            "name": "胸部平片",
+            "category": 4
+        },
+        {
+            "id": 420,
+            "name": "安诺药业阿奇霉素分散片",
+            "category": 6
+        },
+        {
+            "id": 421,
+            "name": "石药欧意诺氟沙星胶囊",
+            "category": 6
+        },
+        {
+            "id": 422,
+            "name": "仁青芒觉",
+            "category": 5
+        },
+        {
+            "id": 423,
+            "name": "白云山医药诺氟沙星胶囊",
+            "category": 6
+        },
+        {
+            "id": 424,
+            "name": "小白鼠毒力试验",
+            "category": 4
+        },
+        {
+            "id": 425,
+            "name": "迪沙药业克霉唑阴道片",
+            "category": 6
+        },
+        {
+            "id": 426,
+            "name": "喘息样支气管炎",
+            "category": 2
+        },
+        {
+            "id": 427,
+            "name": "氨苄西林胶囊",
+            "category": 5
+        },
+        {
+            "id": 428,
+            "name": "眼睛痒",
+            "category": 0
+        },
+        {
+            "id": 429,
+            "name": "三鲜冬瓜汤",
+            "category": 1
+        },
+        {
+            "id": 430,
+            "name": "茭白",
+            "category": 1
+        },
+        {
+            "id": 431,
+            "name": "目赤",
+            "category": 0
+        },
+        {
+            "id": 432,
+            "name": "肌电图",
+            "category": 4
+        },
+        {
+            "id": 433,
+            "name": "硝酸益康唑乳膏",
+            "category": 5
+        },
+        {
+            "id": 434,
+            "name": "康正药业硝酸咪康唑乳膏",
+            "category": 6
+        },
+        {
+            "id": 435,
+            "name": "荞麦粥",
+            "category": 1
+        },
+        {
+            "id": 436,
+            "name": "啤酒",
+            "category": 1
+        },
+        {
+            "id": 437,
+            "name": "锦华药业氯霉素片",
+            "category": 6
+        },
+        {
+            "id": 438,
+            "name": "海蟹",
+            "category": 1
+        },
+        {
+            "id": 439,
+            "name": "广东卫伦人血白蛋白",
+            "category": 6
+        },
+        {
+            "id": 440,
+            "name": "番茄西米粥",
+            "category": 1
+        },
+        {
+            "id": 441,
+            "name": "傲群",
+            "category": 6
+        },
+        {
+            "id": 442,
+            "name": "卫光生物人血白蛋白",
+            "category": 6
+        },
+        {
+            "id": 443,
+            "name": "天津力生制药硫酸沙丁胺醇片",
+            "category": 6
+        },
+        {
+            "id": 444,
+            "name": "白云山天心地塞米松磷酸钠注",
+            "category": 6
+        },
+        {
+            "id": 445,
+            "name": "云南花粉片",
+            "category": 5
+        },
+        {
+            "id": 446,
+            "name": "注射用还原型谷胱甘肽钠",
+            "category": 5
+        },
+        {
+            "id": 447,
+            "name": "肺曲菌病",
+            "category": 2
+        },
+        {
+            "id": 448,
+            "name": "百合汁",
+            "category": 1
+        },
+        {
+            "id": 450,
+            "name": "猪肉(肥瘦)",
+            "category": 1
+        },
+        {
+            "id": 451,
+            "name": "喘息",
+            "category": 0
+        },
+        {
+            "id": 452,
+            "name": "胸痛",
+            "category": 0
+        },
+        {
+            "id": 453,
+            "name": "乳酸左氧氟沙星片",
+            "category": 5
+        },
+        {
+            "id": 454,
+            "name": "螃蟹",
+            "category": 1
+        },
+        {
+            "id": 455,
+            "name": "枸橼酸喷托维林片",
+            "category": 5
+        },
+        {
+            "id": 456,
+            "name": "胸闷憋气",
+            "category": 0
+        },
+        {
+            "id": 457,
+            "name": "普洛康裕天然药物雷公藤多苷",
+            "category": 6
+        },
+        {
+            "id": 458,
+            "name": "口唇青紫",
+            "category": 0
+        },
+        {
+            "id": 459,
+            "name": "肺放线菌病",
+            "category": 2
+        },
+        {
+            "id": 460,
+            "name": "清蒸鸡蛋羹",
+            "category": 1
+        },
+        {
+            "id": 461,
+            "name": "鸡蛋木耳粥",
+            "category": 1
+        },
+        {
+            "id": 462,
+            "name": "人血白蛋白",
+            "category": 6
+        },
+        {
+            "id": 463,
+            "name": "小儿内科",
+            "category": 3
+        },
+        {
+            "id": 464,
+            "name": "牛奶玉米汤",
+            "category": 1
+        },
+        {
+            "id": 465,
+            "name": "奶汤锅子鱼",
+            "category": 1
+        },
+        {
+            "id": 466,
+            "name": "注射用盐酸溴己新",
+            "category": 5
+        },
+        {
+            "id": 467,
+            "name": "炖白鲢鱼",
+            "category": 1
+        },
+        {
+            "id": 468,
+            "name": "阿奇霉素片",
+            "category": 5
+        },
+        {
+            "id": 469,
+            "name": "百合粥",
+            "category": 1
+        },
+        {
+            "id": 470,
+            "name": "甲强龙",
+            "category": 6
+        },
+        {
+            "id": 471,
+            "name": "克霉唑阴道片",
+            "category": 5
+        },
+        {
+            "id": 472,
+            "name": "注射用硫代硫酸钠",
+            "category": 5
+        },
+        {
+            "id": 473,
+            "name": "头孢泊肟酯胶囊",
+            "category": 5
+        },
+        {
+            "id": 474,
+            "name": "生姜乌梅饮",
+            "category": 1
+        },
+        {
+            "id": 475,
+            "name": "天丁噻托溴铵粉雾剂",
+            "category": 6
+        },
+        {
+            "id": 476,
+            "name": "盐酸左氧氟沙星胶囊",
+            "category": 5
+        },
+        {
+            "id": 477,
+            "name": "咳嗽伴哮鸣音",
+            "category": 0
+        },
+        {
+            "id": 478,
+            "name": "佐今明百咳静糖浆",
+            "category": 6
+        },
+        {
+            "id": 479,
+            "name": "面色青紫",
+            "category": 0
+        },
+        {
+            "id": 480,
+            "name": "CT检查",
+            "category": 4
+        },
+        {
+            "id": 481,
+            "name": "肺泡灌洗液可见...",
+            "category": 0
+        },
+        {
+            "id": 482,
+            "name": "兰花药业诺氟沙星胶囊",
+            "category": 6
+        },
+        {
+            "id": 483,
+            "name": "纽兰药业小青龙合剂",
+            "category": 6
+        },
+        {
+            "id": 484,
+            "name": "汇仁药业阿奇霉素片",
+            "category": 6
+        },
+        {
+            "id": 485,
+            "name": "通气与血流灌注比值（V/Q）",
+            "category": 4
+        },
+        {
+            "id": 486,
+            "name": "傲宁",
+            "category": 6
+        },
+        {
+            "id": 487,
+            "name": "比利时辉瑞注射用甲泼尼龙琥",
+            "category": 6
+        },
+        {
+            "id": 488,
+            "name": "运佳黄浦硝酸咪康唑乳膏",
+            "category": 6
+        },
+        {
+            "id": 489,
+            "name": "穿心莲内酯片",
+            "category": 5
+        },
+        {
+            "id": 490,
+            "name": "新陇海药业雷公藤多苷片",
+            "category": 6
+        },
+        {
+            "id": 491,
+            "name": "冰糖银耳羹",
+            "category": 1
+        },
+        {
+            "id": 492,
+            "name": "康良头孢拉定胶囊",
+            "category": 6
+        },
+        {
+            "id": 493,
+            "name": "川贝酿梨",
+            "category": 1
+        },
+        {
+            "id": 494,
+            "name": "急诊科",
+            "category": 3
+        },
+        {
+            "id": 495,
+            "name": "吉春制药祛痰止咳胶囊",
+            "category": 6
+        },
+        {
+            "id": 496,
+            "name": "西岳制药托西酸舒他西林胶囊",
+            "category": 6
+        },
+        {
+            "id": 497,
+            "name": "纵隔浊音界扩大",
+            "category": 0
+        },
+        {
+            "id": 498,
+            "name": "阿莫仙阿莫西林颗粒",
+            "category": 6
+        },
+        {
+            "id": 499,
+            "name": "水萝卜丝拌白菜",
+            "category": 1
+        },
+        {
+            "id": 500,
+            "name": "白酒",
+            "category": 1
+        },
+        {
+            "id": 501,
+            "name": "茶碱缓释胶囊",
+            "category": 5
+        },
+        {
+            "id": 502,
+            "name": "东信药业阿奇霉素颗粒",
+            "category": 6
+        },
+        {
+            "id": 503,
+            "name": "国瑞琥乙红霉素片",
+            "category": 6
+        },
+        {
+            "id": 504,
+            "name": "一品红注射用盐酸溴己新",
+            "category": 6
+        },
+        {
+            "id": 505,
+            "name": "耳、鼻、咽拭子细菌培养",
+            "category": 4
+        },
+        {
+            "id": 506,
+            "name": "康美药业红霉素肠溶片",
+            "category": 6
+        },
+        {
+            "id": 507,
+            "name": "卓峰地塞米松磷酸钠注射液",
+            "category": 6
+        },
+        {
+            "id": 508,
+            "name": "东新药业百咳静糖浆",
+            "category": 6
+        },
+        {
+            "id": 509,
+            "name": "黄瓜拌豆腐丝",
+            "category": 1
+        },
+        {
+            "id": 510,
+            "name": "咽部异物感",
+            "category": 0
+        },
+        {
+            "id": 511,
+            "name": "陕西东泰制药复方蛤青胶囊",
+            "category": 6
+        },
+        {
+            "id": 512,
+            "name": "洋葱",
+            "category": 1
+        },
+        {
+            "id": 513,
+            "name": "莎普爱思盐酸氨溴索葡萄糖注",
+            "category": 6
+        },
+        {
+            "id": 514,
+            "name": "湿啰音",
+            "category": 0
+        },
+        {
+            "id": 516,
+            "name": "山楂百合汤",
+            "category": 1
+        },
+        {
+            "id": 517,
+            "name": "搏沃欣",
+            "category": 6
+        },
+        {
+            "id": 518,
+            "name": "羊腩萝卜丝粥",
+            "category": 1
+        },
+        {
+            "id": 519,
+            "name": "尿常规",
+            "category": 4
+        },
+        {
+            "id": 520,
+            "name": "广春药业盐酸氨溴索葡萄糖注",
+            "category": 6
+        },
+        {
+            "id": 521,
+            "name": "新亚注射用硫代硫酸钠",
+            "category": 6
+        },
+        {
+            "id": 522,
+            "name": "蒺藜药酒",
+            "category": 5
+        },
+        {
+            "id": 523,
+            "name": "糖醋草鱼",
+            "category": 1
+        },
+        {
+            "id": 524,
+            "name": "吉春制药硝酸咪康唑乳膏",
+            "category": 6
+        },
+        {
+            "id": 525,
+            "name": "其他综合",
+            "category": 3
+        },
+        {
+            "id": 526,
+            "name": "每分钟最大通气量（MVV）",
+            "category": 4
+        },
+        {
+            "id": 527,
+            "name": "韭菜",
+            "category": 1
+        },
+        {
+            "id": 528,
+            "name": "胸闷",
+            "category": 0
+        },
+        {
+            "id": 529,
+            "name": "绿豆南瓜汤",
+            "category": 1
+        },
+        {
+            "id": 530,
+            "name": "肺气肿",
+            "category": 2
+        },
+        {
+            "id": 531,
+            "name": "谵妄",
+            "category": 0
+        },
+        {
+            "id": 532,
+            "name": "安诺药业盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 533,
+            "name": "遂成药业地塞米松磷酸钠注射",
+            "category": 6
+        },
+        {
+            "id": 534,
+            "name": "肺出血－肾炎综合征",
+            "category": 2
+        },
+        {
+            "id": 535,
+            "name": "椰子银耳煲鸽汤",
+            "category": 1
+        },
+        {
+            "id": 536,
+            "name": "喘嗽宁片",
+            "category": 5
+        },
+        {
+            "id": 537,
+            "name": "赤峰维康托西酸舒他西林胶囊",
+            "category": 6
+        },
+        {
+            "id": 538,
+            "name": "云南白药云南花粉片",
+            "category": 6
+        },
+        {
+            "id": 539,
+            "name": "亨瑞达制药甲硝唑片",
+            "category": 6
+        },
+        {
+            "id": 540,
+            "name": "潜江制药阿奇霉素颗粒",
+            "category": 6
+        },
+        {
+            "id": 541,
+            "name": "雄巴拉曲神水十一味金色丸",
+            "category": 6
+        },
+        {
+            "id": 542,
+            "name": "气急",
+            "category": 0
+        },
+        {
+            "id": 543,
+            "name": "海力制药替硝唑片",
+            "category": 6
+        },
+        {
+            "id": 544,
+            "name": "支气管造影",
+            "category": 4
+        },
+        {
+            "id": 545,
+            "name": "托西酸舒他西林胶囊",
+            "category": 5
+        },
+        {
+            "id": 546,
+            "name": "飞云岭药业甲硝唑片",
+            "category": 6
+        },
+        {
+            "id": 547,
+            "name": "恒安药业盐酸特比萘芬片",
+            "category": 6
+        },
+        {
+            "id": 548,
+            "name": "肺纤维化",
+            "category": 0
+        },
+        {
+            "id": 549,
+            "name": "联邦安必仙氨苄西林胶囊",
+            "category": 6
+        },
+        {
+            "id": 550,
+            "name": "迪龙制药胸腺肽肠溶片",
+            "category": 6
+        },
+        {
+            "id": 551,
+            "name": "莲子",
+            "category": 1
+        },
+        {
+            "id": 552,
+            "name": "注射用布美他尼",
+            "category": 5
+        },
+        {
+            "id": 553,
+            "name": "康裕头孢氨苄胶囊",
+            "category": 6
+        },
+        {
+            "id": 554,
+            "name": "口唇和甲床略带青紫",
+            "category": 0
+        },
+        {
+            "id": 555,
+            "name": "竹笋",
+            "category": 1
+        },
+        {
+            "id": 556,
+            "name": "旺龙药业琥乙红霉素颗粒",
+            "category": 6
+        },
+        {
+            "id": 557,
+            "name": "重庆华邦制药注射用甲泼尼龙",
+            "category": 6
+        },
+        {
+            "id": 558,
+            "name": "维宏",
+            "category": 6
+        },
+        {
+            "id": 559,
+            "name": "胸部透视",
+            "category": 4
+        },
+        {
+            "id": 560,
+            "name": "化痰平喘片",
+            "category": 5
+        },
+        {
+            "id": 561,
+            "name": "金耀药业地塞米松磷酸钠注射",
+            "category": 6
+        },
+        {
+            "id": 562,
+            "name": "核桃",
+            "category": 1
+        },
+        {
+            "id": 563,
+            "name": "宜昌长江乳酸左氧氟沙星片",
+            "category": 6
+        },
+        {
+            "id": 564,
+            "name": "康美药业甲硝唑片",
+            "category": 6
+        },
+        {
+            "id": 565,
+            "name": "鸡蛋",
+            "category": 1
+        },
+        {
+            "id": 566,
+            "name": "辣椒(青、尖)",
+            "category": 1
+        },
+        {
+            "id": 567,
+            "name": "麦迪霉素片",
+            "category": 5
+        },
+        {
+            "id": 568,
+            "name": "黄芪粥",
+            "category": 1
+        },
+        {
+            "id": 569,
+            "name": "盐酸利多卡因注射液",
+            "category": 6
+        },
+        {
+            "id": 570,
+            "name": "复旦复华雷公藤多苷片",
+            "category": 6
+        },
+        {
+            "id": 571,
+            "name": "鲁神乙酰螺旋霉素片",
+            "category": 6
+        },
+        {
+            "id": 572,
+            "name": "哮鸣音",
+            "category": 0
+        },
+        {
+            "id": 573,
+            "name": "痰培养",
+            "category": 4
+        },
+        {
+            "id": 574,
+            "name": "仁和药业盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 575,
+            "name": "苦瓜",
+            "category": 1
+        },
+        {
+            "id": 576,
+            "name": "罗欣药业注射用盐酸头孢替安",
+            "category": 6
+        },
+        {
+            "id": 577,
+            "name": "盐酸特比萘芬片",
+            "category": 5
+        },
+        {
+            "id": 578,
+            "name": "山西云鹏制药氨茶碱片",
+            "category": 6
+        },
+        {
+            "id": 579,
+            "name": "平光制药红霉素肠溶片",
+            "category": 6
+        },
+        {
+            "id": 580,
+            "name": "黄瓜拌兔丝",
+            "category": 1
+        },
+        {
+            "id": 581,
+            "name": "可尔生",
+            "category": 6
+        },
+        {
+            "id": 582,
+            "name": "神经系统检查",
+            "category": 4
+        },
+        {
+            "id": 583,
+            "name": "蔬菜杂烩粥",
+            "category": 1
+        },
+        {
+            "id": 584,
+            "name": "亮博",
+            "category": 6
+        },
+        {
+            "id": 585,
+            "name": "呼吸肌功能测定",
+            "category": 4
+        },
+        {
+            "id": 586,
+            "name": "血浆蛋白C抗原",
+            "category": 4
+        },
+        {
+            "id": 587,
+            "name": "唐山红星硝酸咪康唑乳膏",
+            "category": 6
+        },
+        {
+            "id": 588,
+            "name": "小黄瓜凉拌面",
+            "category": 1
+        },
+        {
+            "id": 589,
+            "name": "肺炎球菌肺炎",
+            "category": 2
+        },
+        {
+            "id": 590,
+            "name": "利民制药阿奇霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 591,
+            "name": "冬春季的慢性咳...",
+            "category": 0
+        },
+        {
+            "id": 592,
+            "name": "痰液病原体检查",
+            "category": 4
+        },
+        {
+            "id": 593,
+            "name": "闫铁",
+            "category": 0
+        },
+        {
+            "id": 594,
+            "name": "南瓜子仁",
+            "category": 1
+        },
+        {
+            "id": 595,
+            "name": "山楂桑椹粥",
+            "category": 1
+        },
+        {
+            "id": 596,
+            "name": "鲁抗阿莫西林颗粒",
+            "category": 6
+        },
+        {
+            "id": 597,
+            "name": "佳乐弗乳酸左氧氟沙星片",
+            "category": 6
+        },
+        {
+            "id": 598,
+            "name": "齐迈星",
+            "category": 6
+        },
+        {
+            "id": 599,
+            "name": "出生后即有持续青紫",
+            "category": 0
+        },
+        {
+            "id": 600,
+            "name": "杏仁",
+            "category": 1
+        },
+        {
+            "id": 601,
+            "name": "百合炒芦笋",
+            "category": 1
+        },
+        {
+            "id": 602,
+            "name": "松子仁",
+            "category": 1
+        },
+        {
+            "id": 603,
+            "name": "琥乙红霉素颗粒",
+            "category": 5
+        },
+        {
+            "id": 604,
+            "name": "化学性支气管炎",
+            "category": 0
+        },
+        {
+            "id": 606,
+            "name": "仁和堂硫酸沙丁胺醇片",
+            "category": 6
+        },
+        {
+            "id": 607,
+            "name": "孩尔欣头孢克洛颗粒",
+            "category": 6
+        },
+        {
+            "id": 608,
+            "name": "环酯红霉素片",
+            "category": 5
+        },
+        {
+            "id": 609,
+            "name": "抗链球菌型M蛋白抗体",
+            "category": 4
+        },
+        {
+            "id": 610,
+            "name": "薏仁党参粥",
+            "category": 1
+        },
+        {
+            "id": 611,
+            "name": "注射用盐酸氨溴索",
+            "category": 5
+        },
+        {
+            "id": 612,
+            "name": "北京永康药业盐酸利多卡因注",
+            "category": 6
+        },
+        {
+            "id": 613,
+            "name": "银力舒",
+            "category": 6
+        },
+        {
+            "id": 614,
+            "name": "肺泡炎症",
+            "category": 0
+        },
+        {
+            "id": 615,
+            "name": "葵花药业得菲尔公司阿奇霉素",
+            "category": 6
+        },
+        {
+            "id": 616,
+            "name": "福建太平洋制药酮康唑乳膏",
+            "category": 6
+        },
+        {
+            "id": 617,
+            "name": "龙泰制药化痰平喘片",
+            "category": 6
+        },
+        {
+            "id": 618,
+            "name": "带鱼",
+            "category": 1
+        },
+        {
+            "id": 619,
+            "name": "吉林东方制药枸橼酸喷托维林",
+            "category": 6
+        },
+        {
+            "id": 620,
+            "name": "盐酸班布特罗片",
+            "category": 5
+        },
+        {
+            "id": 621,
+            "name": "注射用盐酸头孢替安",
+            "category": 5
+        },
+        {
+            "id": 622,
+            "name": "栗子（熟）",
+            "category": 1
+        },
+        {
+            "id": 623,
+            "name": "吉尔吉药业喘嗽宁片",
+            "category": 6
+        },
+        {
+            "id": 624,
+            "name": "海参（水浸）",
+            "category": 1
+        },
+        {
+            "id": 625,
+            "name": "间歇性头痛",
+            "category": 0
+        },
+        {
+            "id": 626,
+            "name": "肺气肿片",
+            "category": 5
+        },
+        {
+            "id": 627,
+            "name": "津华晖星甲硝唑片",
+            "category": 6
+        },
+        {
+            "id": 628,
+            "name": "呼气音延长",
+            "category": 0
+        },
+        {
+            "id": 629,
+            "name": "大连药业托西酸舒他西林胶囊",
+            "category": 6
+        },
+        {
+            "id": 630,
+            "name": "二天堂联苯苄唑乳膏",
+            "category": 6
+        },
+        {
+            "id": 631,
+            "name": "肾功能检查",
+            "category": 4
+        },
+        {
+            "id": 632,
+            "name": "白细胞分类计数",
+            "category": 4
+        },
+        {
+            "id": 633,
+            "name": "周围血白细胞计数及分类检验",
+            "category": 4
+        },
+        {
+            "id": 634,
+            "name": "痰中带血丝",
+            "category": 0
+        },
+        {
+            "id": 635,
+            "name": "埃斯玛隆",
+            "category": 6
+        },
+        {
+            "id": 638,
+            "name": "茶碱缓释片",
+            "category": 5
+        },
+        {
+            "id": 639,
+            "name": "意式番茄牛肉凉面",
+            "category": 1
+        },
+        {
+            "id": 640,
+            "name": "痰液细菌培养",
+            "category": 4
+        },
+        {
+            "id": 641,
+            "name": "利君沙",
+            "category": 6
+        },
+        {
+            "id": 642,
+            "name": "小青龙颗粒",
+            "category": 5
+        },
+        {
+            "id": 643,
+            "name": "晶珠藏药蛇胆川贝液",
+            "category": 6
+        },
+        {
+            "id": 644,
+            "name": "天津太平洋二羟丙茶碱片",
+            "category": 6
+        },
+        {
+            "id": 645,
+            "name": "金耀药业注射用甲泼尼龙琥珀",
+            "category": 6
+        },
+        {
+            "id": 646,
+            "name": "番茄芹菜汁",
+            "category": 1
+        },
+        {
+            "id": 647,
+            "name": "蓉生药业人血白蛋白",
+            "category": 6
+        },
+        {
+            "id": 648,
+            "name": "欣匹特",
+            "category": 6
+        },
+        {
+            "id": 649,
+            "name": "呕吐",
+            "category": 0
+        },
+        {
+            "id": 650,
+            "name": "酮康唑乳膏",
+            "category": 5
+        },
+        {
+            "id": 651,
+            "name": "注射用头孢唑林钠",
+            "category": 5
+        },
+        {
+            "id": 652,
+            "name": "锋替新",
+            "category": 6
+        },
+        {
+            "id": 653,
+            "name": "西藏甘露仁青芒觉",
+            "category": 6
+        },
+        {
+            "id": 654,
+            "name": "新亚闵行盐酸克林霉素胶囊",
+            "category": 6
+        },
+        {
+            "id": 655,
+            "name": "呼吸音减弱",
+            "category": 0
+        },
+        {
+            "id": 656,
+            "name": "珊瑚白菜墩",
+            "category": 1
+        },
+        {
+            "id": 658,
+            "name": "肺部啰音",
+            "category": 0
+        },
+        {
+            "id": 659,
+            "name": "莱士人血白蛋白",
+            "category": 6
+        },
+        {
+            "id": 660,
+            "name": "乙酰螺旋霉素片",
+            "category": 5
+        },
+        {
+            "id": 661,
+            "name": "润阳药业盐酸氨溴索葡萄糖注",
+            "category": 6
+        },
+        {
+            "id": 662,
+            "name": "心源性呼吸窘迫",
+            "category": 0
+        },
+        {
+            "id": 663,
+            "name": "薏米莲子粥",
+            "category": 1
+        },
+        {
+            "id": 664,
+            "name": "皇象铁力蓝天甲硝唑维B6片",
+            "category": 6
+        },
+        {
+            "id": 665,
+            "name": "肺量计检测",
+            "category": 4
+        },
+        {
+            "id": 666,
+            "name": "纽兰药业硝酸咪康唑栓",
+            "category": 6
+        },
+        {
+            "id": 667,
+            "name": "瓜粒杂锦汤",
+            "category": 1
+        },
+        {
+            "id": 668,
+            "name": "支气管镜检查",
+            "category": 4
+        },
+        {
+            "id": 669,
+            "name": "斯皮仁诺",
+            "category": 6
+        },
+        {
+            "id": 670,
+            "name": "腱反射消失",
+            "category": 0
+        },
+        {
+            "id": 671,
+            "name": "气短",
+            "category": 0
+        },
+        {
+            "id": 672,
+            "name": "心肺功能运动试验（CPET）",
+            "category": 4
+        },
+        {
+            "id": 673,
+            "name": "彼迪药业托西酸舒他西林胶囊",
+            "category": 6
+        },
+        {
+            "id": 674,
+            "name": "银耳粥",
+            "category": 1
+        },
+        {
+            "id": 675,
+            "name": "Optochin敏感试验",
+            "category": 4
+        },
+        {
+            "id": 676,
+            "name": "抗链球菌壁多糖抗体",
+            "category": 4
+        },
+        {
+            "id": 677,
+            "name": "白菜蛋花粥",
+            "category": 1
+        },
+        {
+            "id": 678,
+            "name": "衡阳紫光古汉硝酸益康唑乳膏",
+            "category": 6
+        },
+        {
+            "id": 679,
+            "name": "复仙安",
+            "category": 6
+        },
+        {
+            "id": 680,
+            "name": "济安堂蛇胆川贝液",
+            "category": 6
+        },
+        {
+            "id": 681,
+            "name": "白敬宇制药氨茶碱片",
+            "category": 6
+        },
+        {
+            "id": 682,
+            "name": "华中药业甲硝唑片",
+            "category": 6
+        },
+        {
+            "id": 683,
+            "name": "苯中毒",
+            "category": 2
+        },
+        {
+            "id": 684,
+            "name": "山西康宝人血白蛋白",
+            "category": 6
+        },
+        {
+            "id": 685,
+            "name": "纤毛上皮细胞损伤脱落",
+            "category": 0
+        },
+        {
+            "id": 686,
+            "name": "三维康",
+            "category": 6
+        },
+        {
+            "id": 687,
+            "name": "环科药业甲硝唑片",
+            "category": 6
+        },
+        {
+            "id": 688,
+            "name": "发热伴咳嗽、咯...",
+            "category": 0
+        },
+        {
+            "id": 689,
+            "name": "鸡肝",
+            "category": 1
+        },
+        {
+            "id": 690,
+            "name": "明水药业头孢氨苄甲氧苄啶片",
+            "category": 6
+        },
+        {
+            "id": 691,
+            "name": "首乌百合粥",
+            "category": 1
+        },
+        {
+            "id": 692,
+            "name": "尿液镜检法",
+            "category": 4
+        },
+        {
+            "id": 694,
+            "name": "萨兰欣",
+            "category": 6
+        },
+        {
+            "id": 695,
+            "name": "猪肉(瘦)",
+            "category": 1
+        },
+        {
+            "id": 696,
+            "name": "盐酸克林霉素棕榈酸酯颗粒",
+            "category": 5
+        },
+        {
+            "id": 697,
+            "name": "酱豆腐汁烧猪肉",
+            "category": 1
+        },
+        {
+            "id": 698,
+            "name": "水萝卜拌黄瓜",
+            "category": 1
+        },
+        {
+            "id": 699,
+            "name": "皇隆制药注射用呋塞米",
+            "category": 6
+        },
+        {
+            "id": 700,
+            "name": "转移因子口服溶液",
+            "category": 5
+        },
+        {
+            "id": 701,
+            "name": "番茄皮蛋汤",
+            "category": 1
+        },
+        {
+            "id": 702,
+            "name": "硝酸益康唑溶液",
+            "category": 5
+        }
+    ],
+    "links": [
+        {
+            "source": 530,
+            "target": 469,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 402,
+            "target": 489,
+            "value": "好评药品"
+        },
+        {
+            "source": 683,
+            "target": 146,
+            "value": "常用药品"
+        },
+        {
+            "source": 187,
+            "target": 665,
+            "value": "诊断检查"
+        },
+        {
+            "source": 402,
+            "target": 489,
+            "value": "常用药品"
+        },
+        {
+            "source": 564,
+            "target": 85,
+            "value": "生产药品"
+        },
+        {
+            "source": 654,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 447,
+            "target": 351,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 530,
+            "target": 497,
+            "value": "症状"
+        },
+        {
+            "source": 34,
+            "target": 46,
+            "value": "生产药品"
+        },
+        {
+            "source": 404,
+            "target": 276,
+            "value": "诊断检查"
+        },
+        {
+            "source": 530,
+            "target": 234,
+            "value": "忌吃"
+        },
+        {
+            "source": 231,
+            "target": 253,
+            "value": "诊断检查"
+        },
+        {
+            "source": 402,
+            "target": 325,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 615,
+            "target": 60,
+            "value": "生产药品"
+        },
+        {
+            "source": 311,
+            "target": 431,
+            "value": "症状"
+        },
+        {
+            "source": 311,
+            "target": 62,
+            "value": "症状"
+        },
+        {
+            "source": 248,
+            "target": 273,
+            "value": "症状"
+        },
+        {
+            "source": 79,
+            "target": 485,
+            "value": "诊断检查"
+        },
+        {
+            "source": 683,
+            "target": 68,
+            "value": "症状"
+        },
+        {
+            "source": 589,
+            "target": 468,
+            "value": "好评药品"
+        },
+        {
+            "source": 231,
+            "target": 452,
+            "value": "症状"
+        },
+        {
+            "source": 648,
+            "target": 307,
+            "value": "生产药品"
+        },
+        {
+            "source": 447,
+            "target": 573,
+            "value": "诊断检查"
+        },
+        {
+            "source": 389,
+            "target": 569,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 610,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 402,
+            "target": 633,
+            "value": "诊断检查"
+        },
+        {
+            "source": 261,
+            "target": 622,
+            "value": "宜吃"
+        },
+        {
+            "source": 223,
+            "target": 391,
+            "value": "生产药品"
+        },
+        {
+            "source": 66,
+            "target": 379,
+            "value": "生产药品"
+        },
+        {
+            "source": 478,
+            "target": 310,
+            "value": "生产药品"
+        },
+        {
+            "source": 563,
+            "target": 453,
+            "value": "生产药品"
+        },
+        {
+            "source": 534,
+            "target": 499,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 261,
+            "target": 44,
+            "value": "症状"
+        },
+        {
+            "source": 311,
+            "target": 415,
+            "value": "症状"
+        },
+        {
+            "source": 434,
+            "target": 321,
+            "value": "生产药品"
+        },
+        {
+            "source": 248,
+            "target": 419,
+            "value": "诊断检查"
+        },
+        {
+            "source": 235,
+            "target": 326,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 685,
+            "value": "症状"
+        },
+        {
+            "source": 534,
+            "target": 631,
+            "value": "诊断检查"
+        },
+        {
+            "source": 207,
+            "target": 518,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 227,
+            "target": 60,
+            "value": "生产药品"
+        },
+        {
+            "source": 508,
+            "target": 310,
+            "value": "生产药品"
+        },
+        {
+            "source": 589,
+            "target": 158,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 459,
+            "target": 10,
+            "value": "忌吃"
+        },
+        {
+            "source": 301,
+            "target": 626,
+            "value": "生产药品"
+        },
+        {
+            "source": 241,
+            "target": 452,
+            "value": "症状"
+        },
+        {
+            "source": 530,
+            "target": 267,
+            "value": "诊断检查"
+        },
+        {
+            "source": 129,
+            "target": 466,
+            "value": "生产药品"
+        },
+        {
+            "source": 517,
+            "target": 473,
+            "value": "生产药品"
+        },
+        {
+            "source": 574,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 309,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 248,
+            "target": 382,
+            "value": "好评药品"
+        },
+        {
+            "source": 231,
+            "target": 113,
+            "value": "诊断检查"
+        },
+        {
+            "source": 402,
+            "target": 277,
+            "value": "症状"
+        },
+        {
+            "source": 530,
+            "target": 373,
+            "value": "好评药品"
+        },
+        {
+            "source": 342,
+            "target": 45,
+            "value": "生产药品"
+        },
+        {
+            "source": 475,
+            "target": 94,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 29,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 537,
+            "target": 545,
+            "value": "生产药品"
+        },
+        {
+            "source": 92,
+            "target": 381,
+            "value": "诊断检查"
+        },
+        {
+            "source": 241,
+            "target": 668,
+            "value": "诊断检查"
+        },
+        {
+            "source": 404,
+            "target": 473,
+            "value": "好评药品"
+        },
+        {
+            "source": 589,
+            "target": 452,
+            "value": "症状"
+        },
+        {
+            "source": 530,
+            "target": 20,
+            "value": "宜吃"
+        },
+        {
+            "source": 187,
+            "target": 700,
+            "value": "好评药品"
+        },
+        {
+            "source": 83,
+            "target": 397,
+            "value": "生产药品"
+        },
+        {
+            "source": 311,
+            "target": 595,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 547,
+            "target": 577,
+            "value": "生产药品"
+        },
+        {
+            "source": 155,
+            "target": 293,
+            "value": "生产药品"
+        },
+        {
+            "source": 521,
+            "target": 472,
+            "value": "生产药品"
+        },
+        {
+            "source": 105,
+            "target": 599,
+            "value": "症状"
+        },
+        {
+            "source": 176,
+            "target": 462,
+            "value": "生产药品"
+        },
+        {
+            "source": 534,
+            "target": 219,
+            "value": "诊断检查"
+        },
+        {
+            "source": 180,
+            "target": 228,
+            "value": "生产药品"
+        },
+        {
+            "source": 187,
+            "target": 411,
+            "value": "好评药品"
+        },
+        {
+            "source": 369,
+            "target": 88,
+            "value": "生产药品"
+        },
+        {
+            "source": 79,
+            "target": 512,
+            "value": "忌吃"
+        },
+        {
+            "source": 92,
+            "target": 611,
+            "value": "好评药品"
+        },
+        {
+            "source": 589,
+            "target": 70,
+            "value": "忌吃"
+        },
+        {
+            "source": 459,
+            "target": 324,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 231,
+            "target": 600,
+            "value": "宜吃"
+        },
+        {
+            "source": 447,
+            "target": 161,
+            "value": "症状"
+        },
+        {
+            "source": 48,
+            "target": 603,
+            "value": "生产药品"
+        },
+        {
+            "source": 404,
+            "target": 294,
+            "value": "症状"
+        },
+        {
+            "source": 579,
+            "target": 347,
+            "value": "生产药品"
+        },
+        {
+            "source": 404,
+            "target": 621,
+            "value": "好评药品"
+        },
+        {
+            "source": 241,
+            "target": 688,
+            "value": "症状"
+        },
+        {
+            "source": 311,
+            "target": 197,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 51,
+            "target": 422,
+            "value": "生产药品"
+        },
+        {
+            "source": 404,
+            "target": 332,
+            "value": "好评药品"
+        },
+        {
+            "source": 187,
+            "target": 346,
+            "value": "好评药品"
+        },
+        {
+            "source": 207,
+            "target": 582,
+            "value": "诊断检查"
+        },
+        {
+            "source": 404,
+            "target": 332,
+            "value": "常用药品"
+        },
+        {
+            "source": 248,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 311,
+            "target": 244,
+            "value": "宜吃"
+        },
+        {
+            "source": 534,
+            "target": 152,
+            "value": "宜吃"
+        },
+        {
+            "source": 248,
+            "target": 85,
+            "value": "常用药品"
+        },
+        {
+            "source": 12,
+            "target": 80,
+            "value": "生产药品"
+        },
+        {
+            "source": 629,
+            "target": 545,
+            "value": "生产药品"
+        },
+        {
+            "source": 74,
+            "target": 611,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 27,
+            "value": "好评药品"
+        },
+        {
+            "source": 683,
+            "target": 318,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 530,
+            "target": 665,
+            "value": "诊断检查"
+        },
+        {
+            "source": 332,
+            "target": 332,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 86,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 166,
+            "target": 314,
+            "value": "生产药品"
+        },
+        {
+            "source": 404,
+            "target": 528,
+            "value": "症状"
+        },
+        {
+            "source": 682,
+            "target": 85,
+            "value": "生产药品"
+        },
+        {
+            "source": 262,
+            "target": 49,
+            "value": "生产药品"
+        },
+        {
+            "source": 607,
+            "target": 240,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 660,
+            "value": "好评药品"
+        },
+        {
+            "source": 482,
+            "target": 151,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 99,
+            "value": "宜吃"
+        },
+        {
+            "source": 402,
+            "target": 50,
+            "value": "宜吃"
+        },
+        {
+            "source": 589,
+            "target": 154,
+            "value": "宜吃"
+        },
+        {
+            "source": 311,
+            "target": 480,
+            "value": "诊断检查"
+        },
+        {
+            "source": 543,
+            "target": 90,
+            "value": "生产药品"
+        },
+        {
+            "source": 116,
+            "target": 136,
+            "value": "生产药品"
+        },
+        {
+            "source": 295,
+            "target": 347,
+            "value": "生产药品"
+        },
+        {
+            "source": 232,
+            "target": 90,
+            "value": "生产药品"
+        },
+        {
+            "source": 486,
+            "target": 3,
+            "value": "生产药品"
+        },
+        {
+            "source": 239,
+            "target": 7,
+            "value": "生产药品"
+        },
+        {
+            "source": 644,
+            "target": 279,
+            "value": "生产药品"
+        },
+        {
+            "source": 690,
+            "target": 332,
+            "value": "生产药品"
+        },
+        {
+            "source": 187,
+            "target": 433,
+            "value": "好评药品"
+        },
+        {
+            "source": 30,
+            "target": 347,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 628,
+            "value": "症状"
+        },
+        {
+            "source": 122,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 187,
+            "target": 106,
+            "value": "忌吃"
+        },
+        {
+            "source": 447,
+            "target": 383,
+            "value": "诊断检查"
+        },
+        {
+            "source": 569,
+            "target": 569,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 568,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 530,
+            "target": 19,
+            "value": "症状"
+        },
+        {
+            "source": 100,
+            "target": 621,
+            "value": "生产药品"
+        },
+        {
+            "source": 105,
+            "target": 43,
+            "value": "症状"
+        },
+        {
+            "source": 187,
+            "target": 471,
+            "value": "好评药品"
+        },
+        {
+            "source": 231,
+            "target": 65,
+            "value": "好评药品"
+        },
+        {
+            "source": 187,
+            "target": 650,
+            "value": "好评药品"
+        },
+        {
+            "source": 368,
+            "target": 359,
+            "value": "属于"
+        },
+        {
+            "source": 257,
+            "target": 251,
+            "value": "生产药品"
+        },
+        {
+            "source": 395,
+            "target": 339,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 65,
+            "value": "常用药品"
+        },
+        {
+            "source": 447,
+            "target": 512,
+            "value": "忌吃"
+        },
+        {
+            "source": 187,
+            "target": 36,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 261,
+            "target": 527,
+            "value": "忌吃"
+        },
+        {
+            "source": 447,
+            "target": 151,
+            "value": "好评药品"
+        },
+        {
+            "source": 584,
+            "target": 473,
+            "value": "生产药品"
+        },
+        {
+            "source": 423,
+            "target": 151,
+            "value": "生产药品"
+        },
+        {
+            "source": 621,
+            "target": 621,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 450,
+            "value": "忌吃"
+        },
+        {
+            "source": 79,
+            "target": 307,
+            "value": "好评药品"
+        },
+        {
+            "source": 311,
+            "target": 14,
+            "value": "症状"
+        },
+        {
+            "source": 150,
+            "target": 364,
+            "value": "生产药品"
+        },
+        {
+            "source": 79,
+            "target": 453,
+            "value": "好评药品"
+        },
+        {
+            "source": 316,
+            "target": 151,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 186,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 207,
+            "target": 670,
+            "value": "症状"
+        },
+        {
+            "source": 534,
+            "target": 692,
+            "value": "诊断检查"
+        },
+        {
+            "source": 402,
+            "target": 115,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 231,
+            "target": 386,
+            "value": "好评药品"
+        },
+        {
+            "source": 311,
+            "target": 68,
+            "value": "症状"
+        },
+        {
+            "source": 683,
+            "target": 422,
+            "value": "好评药品"
+        },
+        {
+            "source": 288,
+            "target": 307,
+            "value": "生产药品"
+        },
+        {
+            "source": 220,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 25,
+            "target": 90,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 156,
+            "value": "诊断检查"
+        },
+        {
+            "source": 504,
+            "target": 466,
+            "value": "生产药品"
+        },
+        {
+            "source": 105,
+            "target": 156,
+            "value": "诊断检查"
+        },
+        {
+            "source": 231,
+            "target": 640,
+            "value": "诊断检查"
+        },
+        {
+            "source": 77,
+            "target": 332,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 128,
+            "value": "症状"
+        },
+        {
+            "source": 311,
+            "target": 428,
+            "value": "症状"
+        },
+        {
+            "source": 659,
+            "target": 462,
+            "value": "生产药品"
+        },
+        {
+            "source": 534,
+            "target": 4,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 187,
+            "target": 658,
+            "value": "症状"
+        },
+        {
+            "source": 92,
+            "target": 667,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 459,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 81,
+            "target": 339,
+            "value": "生产药品"
+        },
+        {
+            "source": 311,
+            "target": 466,
+            "value": "好评药品"
+        },
+        {
+            "source": 162,
+            "target": 251,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 70,
+            "value": "忌吃"
+        },
+        {
+            "source": 459,
+            "target": 436,
+            "value": "忌吃"
+        },
+        {
+            "source": 683,
+            "target": 47,
+            "value": "好评药品"
+        },
+        {
+            "source": 311,
+            "target": 466,
+            "value": "常用药品"
+        },
+        {
+            "source": 412,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 183,
+            "value": "忌吃"
+        },
+        {
+            "source": 261,
+            "target": 697,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 587,
+            "target": 321,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 193,
+            "value": "症状"
+        },
+        {
+            "source": 274,
+            "target": 332,
+            "value": "生产药品"
+        },
+        {
+            "source": 187,
+            "target": 314,
+            "value": "好评药品"
+        },
+        {
+            "source": 187,
+            "target": 321,
+            "value": "好评药品"
+        },
+        {
+            "source": 653,
+            "target": 422,
+            "value": "生产药品"
+        },
+        {
+            "source": 311,
+            "target": 302,
+            "value": "症状"
+        },
+        {
+            "source": 207,
+            "target": 317,
+            "value": "症状"
+        },
+        {
+            "source": 699,
+            "target": 47,
+            "value": "生产药品"
+        },
+        {
+            "source": 442,
+            "target": 462,
+            "value": "生产药品"
+        },
+        {
+            "source": 105,
+            "target": 479,
+            "value": "症状"
+        },
+        {
+            "source": 198,
+            "target": 603,
+            "value": "生产药品"
+        },
+        {
+            "source": 248,
+            "target": 3,
+            "value": "好评药品"
+        },
+        {
+            "source": 92,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 92,
+            "target": 110,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 187,
+            "target": 391,
+            "value": "好评药品"
+        },
+        {
+            "source": 231,
+            "target": 119,
+            "value": "好评药品"
+        },
+        {
+            "source": 530,
+            "target": 40,
+            "value": "好评药品"
+        },
+        {
+            "source": 400,
+            "target": 466,
+            "value": "生产药品"
+        },
+        {
+            "source": 92,
+            "target": 662,
+            "value": "症状"
+        },
+        {
+            "source": 207,
+            "target": 356,
+            "value": "宜吃"
+        },
+        {
+            "source": 248,
+            "target": 90,
+            "value": "好评药品"
+        },
+        {
+            "source": 459,
+            "target": 309,
+            "value": "好评药品"
+        },
+        {
+            "source": 426,
+            "target": 565,
+            "value": "宜吃"
+        },
+        {
+            "source": 241,
+            "target": 481,
+            "value": "症状"
+        },
+        {
+            "source": 589,
+            "target": 588,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 248,
+            "target": 90,
+            "value": "常用药品"
+        },
+        {
+            "source": 402,
+            "target": 305,
+            "value": "症状"
+        },
+        {
+            "source": 92,
+            "target": 436,
+            "value": "忌吃"
+        },
+        {
+            "source": 311,
+            "target": 512,
+            "value": "忌吃"
+        },
+        {
+            "source": 459,
+            "target": 309,
+            "value": "常用药品"
+        },
+        {
+            "source": 643,
+            "target": 80,
+            "value": "生产药品"
+        },
+        {
+            "source": 130,
+            "target": 410,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 60,
+            "value": "好评药品"
+        },
+        {
+            "source": 79,
+            "target": 362,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 261,
+            "target": 655,
+            "value": "症状"
+        },
+        {
+            "source": 459,
+            "target": 287,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 390,
+            "target": 700,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 452,
+            "value": "症状"
+        },
+        {
+            "source": 79,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 459,
+            "target": 374,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 597,
+            "target": 453,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 136,
+            "value": "好评药品"
+        },
+        {
+            "source": 79,
+            "target": 468,
+            "value": "常用药品"
+        },
+        {
+            "source": 384,
+            "target": 69,
+            "value": "生产药品"
+        },
+        {
+            "source": 92,
+            "target": 258,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 459,
+            "target": 701,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 105,
+            "target": 559,
+            "value": "诊断检查"
+        },
+        {
+            "source": 589,
+            "target": 307,
+            "value": "常用药品"
+        },
+        {
+            "source": 172,
+            "target": 228,
+            "value": "生产药品"
+        },
+        {
+            "source": 105,
+            "target": 419,
+            "value": "诊断检查"
+        },
+        {
+            "source": 261,
+            "target": 70,
+            "value": "忌吃"
+        },
+        {
+            "source": 534,
+            "target": 336,
+            "value": "症状"
+        },
+        {
+            "source": 683,
+            "target": 438,
+            "value": "忌吃"
+        },
+        {
+            "source": 683,
+            "target": 569,
+            "value": "好评药品"
+        },
+        {
+            "source": 222,
+            "target": 80,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 424,
+            "value": "诊断检查"
+        },
+        {
+            "source": 46,
+            "target": 46,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 175,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 534,
+            "target": 313,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 459,
+            "target": 152,
+            "value": "宜吃"
+        },
+        {
+            "source": 21,
+            "target": 60,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 113,
+            "value": "诊断检查"
+        },
+        {
+            "source": 534,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 447,
+            "target": 674,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 79,
+            "target": 253,
+            "value": "诊断检查"
+        },
+        {
+            "source": 142,
+            "target": 3,
+            "value": "生产药品"
+        },
+        {
+            "source": 570,
+            "target": 293,
+            "value": "生产药品"
+        },
+        {
+            "source": 33,
+            "target": 379,
+            "value": "生产药品"
+        },
+        {
+            "source": 92,
+            "target": 18,
+            "value": "诊断检查"
+        },
+        {
+            "source": 207,
+            "target": 88,
+            "value": "好评药品"
+        },
+        {
+            "source": 366,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 187,
+            "target": 577,
+            "value": "好评药品"
+        },
+        {
+            "source": 687,
+            "target": 85,
+            "value": "生产药品"
+        },
+        {
+            "source": 589,
+            "target": 419,
+            "value": "诊断检查"
+        },
+        {
+            "source": 459,
+            "target": 512,
+            "value": "忌吃"
+        },
+        {
+            "source": 361,
+            "target": 80,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 631,
+            "value": "诊断检查"
+        },
+        {
+            "source": 231,
+            "target": 689,
+            "value": "宜吃"
+        },
+        {
+            "source": 311,
+            "target": 152,
+            "value": "宜吃"
+        },
+        {
+            "source": 589,
+            "target": 688,
+            "value": "症状"
+        },
+        {
+            "source": 241,
+            "target": 381,
+            "value": "诊断检查"
+        },
+        {
+            "source": 303,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 536,
+            "value": "好评药品"
+        },
+        {
+            "source": 187,
+            "target": 87,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 207,
+            "target": 529,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 673,
+            "target": 545,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 575,
+            "value": "宜吃"
+        },
+        {
+            "source": 75,
+            "target": 462,
+            "value": "生产药品"
+        },
+        {
+            "source": 534,
+            "target": 326,
+            "value": "好评药品"
+        },
+        {
+            "source": 207,
+            "target": 144,
+            "value": "症状"
+        },
+        {
+            "source": 214,
+            "target": 466,
+            "value": "生产药品"
+        },
+        {
+            "source": 534,
+            "target": 326,
+            "value": "常用药品"
+        },
+        {
+            "source": 92,
+            "target": 379,
+            "value": "好评药品"
+        },
+        {
+            "source": 459,
+            "target": 104,
+            "value": "宜吃"
+        },
+        {
+            "source": 447,
+            "target": 113,
+            "value": "诊断检查"
+        },
+        {
+            "source": 447,
+            "target": 468,
+            "value": "好评药品"
+        },
+        {
+            "source": 413,
+            "target": 332,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 688,
+            "value": "症状"
+        },
+        {
+            "source": 680,
+            "target": 80,
+            "value": "生产药品"
+        },
+        {
+            "source": 143,
+            "target": 468,
+            "value": "生产药品"
+        },
+        {
+            "source": 447,
+            "target": 468,
+            "value": "常用药品"
+        },
+        {
+            "source": 231,
+            "target": 476,
+            "value": "常用药品"
+        },
+        {
+            "source": 530,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 404,
+            "target": 419,
+            "value": "诊断检查"
+        },
+        {
+            "source": 207,
+            "target": 583,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 589,
+            "target": 565,
+            "value": "宜吃"
+        },
+        {
+            "source": 534,
+            "target": 15,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 589,
+            "target": 322,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 589,
+            "target": 698,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 635,
+            "target": 501,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 310,
+            "value": "好评药品"
+        },
+        {
+            "source": 79,
+            "target": 23,
+            "value": "宜吃"
+        },
+        {
+            "source": 683,
+            "target": 146,
+            "value": "好评药品"
+        },
+        {
+            "source": 534,
+            "target": 95,
+            "value": "诊断检查"
+        },
+        {
+            "source": 259,
+            "target": 466,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 69,
+            "value": "好评药品"
+        },
+        {
+            "source": 231,
+            "target": 7,
+            "value": "好评药品"
+        },
+        {
+            "source": 79,
+            "target": 141,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 402,
+            "target": 528,
+            "value": "症状"
+        },
+        {
+            "source": 426,
+            "target": 279,
+            "value": "好评药品"
+        },
+        {
+            "source": 404,
+            "target": 545,
+            "value": "好评药品"
+        },
+        {
+            "source": 187,
+            "target": 600,
+            "value": "宜吃"
+        },
+        {
+            "source": 683,
+            "target": 24,
+            "value": "诊断检查"
+        },
+        {
+            "source": 426,
+            "target": 111,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 67,
+            "target": 17,
+            "value": "生产药品"
+        },
+        {
+            "source": 683,
+            "target": 253,
+            "value": "诊断检查"
+        },
+        {
+            "source": 92,
+            "target": 551,
+            "value": "宜吃"
+        },
+        {
+            "source": 606,
+            "target": 39,
+            "value": "生产药品"
+        },
+        {
+            "source": 598,
+            "target": 307,
+            "value": "生产药品"
+        },
+        {
+            "source": 147,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 140,
+            "value": "忌吃"
+        },
+        {
+            "source": 686,
+            "target": 401,
+            "value": "生产药品"
+        },
+        {
+            "source": 375,
+            "target": 151,
+            "value": "生产药品"
+        },
+        {
+            "source": 105,
+            "target": 278,
+            "value": "症状"
+        },
+        {
+            "source": 530,
+            "target": 57,
+            "value": "诊断检查"
+        },
+        {
+            "source": 578,
+            "target": 397,
+            "value": "生产药品"
+        },
+        {
+            "source": 92,
+            "target": 152,
+            "value": "宜吃"
+        },
+        {
+            "source": 683,
+            "target": 624,
+            "value": "忌吃"
+        },
+        {
+            "source": 105,
+            "target": 458,
+            "value": "症状"
+        },
+        {
+            "source": 426,
+            "target": 45,
+            "value": "好评药品"
+        },
+        {
+            "source": 404,
+            "target": 312,
+            "value": "症状"
+        },
+        {
+            "source": 459,
+            "target": 299,
+            "value": "宜吃"
+        },
+        {
+            "source": 71,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 217,
+            "target": 307,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 225,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 426,
+            "target": 45,
+            "value": "常用药品"
+        },
+        {
+            "source": 530,
+            "target": 397,
+            "value": "常用药品"
+        },
+        {
+            "source": 96,
+            "target": 90,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 410,
+            "value": "好评药品"
+        },
+        {
+            "source": 92,
+            "target": 512,
+            "value": "忌吃"
+        },
+        {
+            "source": 490,
+            "target": 293,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 242,
+            "value": "好评药品"
+        },
+        {
+            "source": 441,
+            "target": 466,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 333,
+            "value": "症状"
+        },
+        {
+            "source": 426,
+            "target": 410,
+            "value": "常用药品"
+        },
+        {
+            "source": 187,
+            "target": 429,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 207,
+            "target": 649,
+            "value": "症状"
+        },
+        {
+            "source": 92,
+            "target": 585,
+            "value": "诊断检查"
+        },
+        {
+            "source": 207,
+            "target": 242,
+            "value": "常用药品"
+        },
+        {
+            "source": 187,
+            "target": 401,
+            "value": "好评药品"
+        },
+        {
+            "source": 581,
+            "target": 696,
+            "value": "生产药品"
+        },
+        {
+            "source": 589,
+            "target": 509,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 533,
+            "target": 136,
+            "value": "生产药品"
+        },
+        {
+            "source": 357,
+            "target": 339,
+            "value": "生产药品"
+        },
+        {
+            "source": 534,
+            "target": 293,
+            "value": "好评药品"
+        },
+        {
+            "source": 534,
+            "target": 293,
+            "value": "常用药品"
+        },
+        {
+            "source": 576,
+            "target": 621,
+            "value": "生产药品"
+        },
+        {
+            "source": 392,
+            "target": 489,
+            "value": "生产药品"
+        },
+        {
+            "source": 79,
+            "target": 53,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 530,
+            "target": 364,
+            "value": "好评药品"
+        },
+        {
+            "source": 549,
+            "target": 427,
+            "value": "生产药品"
+        },
+        {
+            "source": 416,
+            "target": 611,
+            "value": "生产药品"
+        },
+        {
+            "source": 168,
+            "target": 251,
+            "value": "生产药品"
+        },
+        {
+            "source": 683,
+            "target": 472,
+            "value": "好评药品"
+        },
+        {
+            "source": 79,
+            "target": 151,
+            "value": "好评药品"
+        },
+        {
+            "source": 229,
+            "target": 310,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 240,
+            "value": "好评药品"
+        },
+        {
+            "source": 306,
+            "target": 642,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 133,
+            "value": "诊断检查"
+        },
+        {
+            "source": 530,
+            "target": 467,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 231,
+            "target": 567,
+            "value": "好评药品"
+        },
+        {
+            "source": 248,
+            "target": 54,
+            "value": "症状"
+        },
+        {
+            "source": 187,
+            "target": 82,
+            "value": "好评药品"
+        },
+        {
+            "source": 79,
+            "target": 405,
+            "value": "诊断检查"
+        },
+        {
+            "source": 243,
+            "target": 17,
+            "value": "生产药品"
+        },
+        {
+            "source": 248,
+            "target": 85,
+            "value": "好评药品"
+        },
+        {
+            "source": 459,
+            "target": 696,
+            "value": "好评药品"
+        },
+        {
+            "source": 496,
+            "target": 545,
+            "value": "生产药品"
+        },
+        {
+            "source": 534,
+            "target": 341,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 426,
+            "target": 609,
+            "value": "诊断检查"
+        },
+        {
+            "source": 311,
+            "target": 445,
+            "value": "好评药品"
+        },
+        {
+            "source": 125,
+            "target": 346,
+            "value": "生产药品"
+        },
+        {
+            "source": 337,
+            "target": 702,
+            "value": "生产药品"
+        },
+        {
+            "source": 311,
+            "target": 445,
+            "value": "常用药品"
+        },
+        {
+            "source": 463,
+            "target": 202,
+            "value": "属于"
+        },
+        {
+            "source": 92,
+            "target": 462,
+            "value": "常用药品"
+        },
+        {
+            "source": 530,
+            "target": 296,
+            "value": "诊断检查"
+        },
+        {
+            "source": 402,
+            "target": 183,
+            "value": "忌吃"
+        },
+        {
+            "source": 589,
+            "target": 500,
+            "value": "忌吃"
+        },
+        {
+            "source": 231,
+            "target": 20,
+            "value": "宜吃"
+        },
+        {
+            "source": 135,
+            "target": 85,
+            "value": "生产药品"
+        },
+        {
+            "source": 297,
+            "target": 90,
+            "value": "生产药品"
+        },
+        {
+            "source": 541,
+            "target": 242,
+            "value": "生产药品"
+        },
+        {
+            "source": 205,
+            "target": 603,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 285,
+            "value": "好评药品"
+        },
+        {
+            "source": 426,
+            "target": 591,
+            "value": "症状"
+        },
+        {
+            "source": 231,
+            "target": 280,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 311,
+            "target": 253,
+            "value": "诊断检查"
+        },
+        {
+            "source": 261,
+            "target": 76,
+            "value": "诊断检查"
+        },
+        {
+            "source": 398,
+            "target": 651,
+            "value": "生产药品"
+        },
+        {
+            "source": 265,
+            "target": 131,
+            "value": "生产药品"
+        },
+        {
+            "source": 79,
+            "target": 548,
+            "value": "症状"
+        },
+        {
+            "source": 254,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 79,
+            "target": 551,
+            "value": "宜吃"
+        },
+        {
+            "source": 207,
+            "target": 362,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 231,
+            "target": 367,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 187,
+            "target": 435,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 79,
+            "target": 435,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 187,
+            "target": 53,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 459,
+            "target": 353,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 589,
+            "target": 372,
+            "value": "症状"
+        },
+        {
+            "source": 459,
+            "target": 440,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 488,
+            "target": 321,
+            "value": "生产药品"
+        },
+        {
+            "source": 248,
+            "target": 396,
+            "value": "症状"
+        },
+        {
+            "source": 426,
+            "target": 286,
+            "value": "症状"
+        },
+        {
+            "source": 683,
+            "target": 277,
+            "value": "症状"
+        },
+        {
+            "source": 241,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 283,
+            "target": 466,
+            "value": "生产药品"
+        },
+        {
+            "source": 683,
+            "target": 99,
+            "value": "宜吃"
+        },
+        {
+            "source": 443,
+            "target": 39,
+            "value": "生产药品"
+        },
+        {
+            "source": 647,
+            "target": 462,
+            "value": "生产药品"
+        },
+        {
+            "source": 187,
+            "target": 583,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 684,
+            "target": 462,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 620,
+            "value": "好评药品"
+        },
+        {
+            "source": 28,
+            "target": 347,
+            "value": "生产药品"
+        },
+        {
+            "source": 495,
+            "target": 327,
+            "value": "生产药品"
+        },
+        {
+            "source": 459,
+            "target": 396,
+            "value": "症状"
+        },
+        {
+            "source": 207,
+            "target": 500,
+            "value": "忌吃"
+        },
+        {
+            "source": 261,
+            "target": 307,
+            "value": "好评药品"
+        },
+        {
+            "source": 420,
+            "target": 307,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 159,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 207,
+            "target": 552,
+            "value": "好评药品"
+        },
+        {
+            "source": 207,
+            "target": 146,
+            "value": "常用药品"
+        },
+        {
+            "source": 402,
+            "target": 588,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 79,
+            "target": 299,
+            "value": "宜吃"
+        },
+        {
+            "source": 447,
+            "target": 527,
+            "value": "忌吃"
+        },
+        {
+            "source": 105,
+            "target": 542,
+            "value": "症状"
+        },
+        {
+            "source": 261,
+            "target": 566,
+            "value": "忌吃"
+        },
+        {
+            "source": 459,
+            "target": 54,
+            "value": "症状"
+        },
+        {
+            "source": 92,
+            "target": 691,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 218,
+            "target": 466,
+            "value": "生产药品"
+        },
+        {
+            "source": 387,
+            "target": 397,
+            "value": "生产药品"
+        },
+        {
+            "source": 484,
+            "target": 468,
+            "value": "生产药品"
+        },
+        {
+            "source": 459,
+            "target": 5,
+            "value": "好评药品"
+        },
+        {
+            "source": 231,
+            "target": 639,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 231,
+            "target": 651,
+            "value": "好评药品"
+        },
+        {
+            "source": 402,
+            "target": 505,
+            "value": "诊断检查"
+        },
+        {
+            "source": 683,
+            "target": 183,
+            "value": "忌吃"
+        },
+        {
+            "source": 231,
+            "target": 177,
+            "value": "症状"
+        },
+        {
+            "source": 231,
+            "target": 377,
+            "value": "好评药品"
+        },
+        {
+            "source": 459,
+            "target": 5,
+            "value": "常用药品"
+        },
+        {
+            "source": 370,
+            "target": 696,
+            "value": "生产药品"
+        },
+        {
+            "source": 178,
+            "target": 3,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 49,
+            "value": "好评药品"
+        },
+        {
+            "source": 231,
+            "target": 512,
+            "value": "忌吃"
+        },
+        {
+            "source": 426,
+            "target": 80,
+            "value": "好评药品"
+        },
+        {
+            "source": 447,
+            "target": 72,
+            "value": "宜吃"
+        },
+        {
+            "source": 447,
+            "target": 535,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 323,
+            "target": 55,
+            "value": "生产药品"
+        },
+        {
+            "source": 71,
+            "target": 456,
+            "value": "症状"
+        },
+        {
+            "source": 683,
+            "target": 251,
+            "value": "好评药品"
+        },
+        {
+            "source": 261,
+            "target": 419,
+            "value": "诊断检查"
+        },
+        {
+            "source": 207,
+            "target": 494,
+            "value": "所属科室"
+        },
+        {
+            "source": 402,
+            "target": 164,
+            "value": "症状"
+        },
+        {
+            "source": 215,
+            "target": 249,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 658,
+            "value": "症状"
+        },
+        {
+            "source": 207,
+            "target": 436,
+            "value": "忌吃"
+        },
+        {
+            "source": 534,
+            "target": 522,
+            "value": "好评药品"
+        },
+        {
+            "source": 22,
+            "target": 386,
+            "value": "生产药品"
+        },
+        {
+            "source": 666,
+            "target": 411,
+            "value": "生产药品"
+        },
+        {
+            "source": 365,
+            "target": 307,
+            "value": "生产药品"
+        },
+        {
+            "source": 185,
+            "target": 326,
+            "value": "生产药品"
+        },
+        {
+            "source": 92,
+            "target": 320,
+            "value": "症状"
+        },
+        {
+            "source": 459,
+            "target": 272,
+            "value": "症状"
+        },
+        {
+            "source": 105,
+            "target": 381,
+            "value": "诊断检查"
+        },
+        {
+            "source": 231,
+            "target": 542,
+            "value": "症状"
+        },
+        {
+            "source": 261,
+            "target": 453,
+            "value": "好评药品"
+        },
+        {
+            "source": 123,
+            "target": 462,
+            "value": "生产药品"
+        },
+        {
+            "source": 459,
+            "target": 211,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 459,
+            "target": 224,
+            "value": "症状"
+        },
+        {
+            "source": 530,
+            "target": 407,
+            "value": "好评药品"
+        },
+        {
+            "source": 349,
+            "target": 552,
+            "value": "生产药品"
+        },
+        {
+            "source": 91,
+            "target": 90,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 453,
+            "value": "常用药品"
+        },
+        {
+            "source": 487,
+            "target": 17,
+            "value": "生产药品"
+        },
+        {
+            "source": 503,
+            "target": 339,
+            "value": "生产药品"
+        },
+        {
+            "source": 92,
+            "target": 103,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 207,
+            "target": 394,
+            "value": "症状"
+        },
+        {
+            "source": 530,
+            "target": 501,
+            "value": "好评药品"
+        },
+        {
+            "source": 148,
+            "target": 373,
+            "value": "生产药品"
+        },
+        {
+            "source": 42,
+            "target": 293,
+            "value": "生产药品"
+        },
+        {
+            "source": 623,
+            "target": 536,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 68,
+            "value": "症状"
+        },
+        {
+            "source": 207,
+            "target": 672,
+            "value": "诊断检查"
+        },
+        {
+            "source": 539,
+            "target": 85,
+            "value": "生产药品"
+        },
+        {
+            "source": 187,
+            "target": 702,
+            "value": "好评药品"
+        },
+        {
+            "source": 79,
+            "target": 87,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 79,
+            "target": 468,
+            "value": "好评药品"
+        },
+        {
+            "source": 304,
+            "target": 228,
+            "value": "生产药品"
+        },
+        {
+            "source": 664,
+            "target": 382,
+            "value": "生产药品"
+        },
+        {
+            "source": 589,
+            "target": 307,
+            "value": "好评药品"
+        },
+        {
+            "source": 73,
+            "target": 119,
+            "value": "生产药品"
+        },
+        {
+            "source": 502,
+            "target": 228,
+            "value": "生产药品"
+        },
+        {
+            "source": 534,
+            "target": 213,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 538,
+            "target": 445,
+            "value": "生产药品"
+        },
+        {
+            "source": 345,
+            "target": 307,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 676,
+            "value": "诊断检查"
+        },
+        {
+            "source": 261,
+            "target": 695,
+            "value": "宜吃"
+        },
+        {
+            "source": 558,
+            "target": 468,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 520,
+            "target": 379,
+            "value": "生产药品"
+        },
+        {
+            "source": 447,
+            "target": 453,
+            "value": "常用药品"
+        },
+        {
+            "source": 187,
+            "target": 2,
+            "value": "宜吃"
+        },
+        {
+            "source": 79,
+            "target": 526,
+            "value": "诊断检查"
+        },
+        {
+            "source": 661,
+            "target": 379,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 350,
+            "value": "症状"
+        },
+        {
+            "source": 261,
+            "target": 514,
+            "value": "症状"
+        },
+        {
+            "source": 532,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 459,
+            "target": 356,
+            "value": "宜吃"
+        },
+        {
+            "source": 546,
+            "target": 85,
+            "value": "生产药品"
+        },
+        {
+            "source": 13,
+            "target": 90,
+            "value": "生产药品"
+        },
+        {
+            "source": 589,
+            "target": 634,
+            "value": "症状"
+        },
+        {
+            "source": 426,
+            "target": 174,
+            "value": "宜吃"
+        },
+        {
+            "source": 85,
+            "target": 85,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 675,
+            "value": "诊断检查"
+        },
+        {
+            "source": 231,
+            "target": 566,
+            "value": "忌吃"
+        },
+        {
+            "source": 231,
+            "target": 565,
+            "value": "宜吃"
+        },
+        {
+            "source": 550,
+            "target": 331,
+            "value": "生产药品"
+        },
+        {
+            "source": 126,
+            "target": 620,
+            "value": "生产药品"
+        },
+        {
+            "source": 187,
+            "target": 131,
+            "value": "好评药品"
+        },
+        {
+            "source": 683,
+            "target": 213,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 507,
+            "target": 136,
+            "value": "生产药品"
+        },
+        {
+            "source": 79,
+            "target": 452,
+            "value": "症状"
+        },
+        {
+            "source": 358,
+            "target": 620,
+            "value": "生产药品"
+        },
+        {
+            "source": 679,
+            "target": 621,
+            "value": "生产药品"
+        },
+        {
+            "source": 447,
+            "target": 300,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 261,
+            "target": 118,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 459,
+            "target": 592,
+            "value": "诊断检查"
+        },
+        {
+            "source": 246,
+            "target": 153,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 573,
+            "value": "诊断检查"
+        },
+        {
+            "source": 402,
+            "target": 460,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 11,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 457,
+            "target": 293,
+            "value": "生产药品"
+        },
+        {
+            "source": 92,
+            "target": 663,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 187,
+            "target": 562,
+            "value": "宜吃"
+        },
+        {
+            "source": 553,
+            "target": 65,
+            "value": "生产药品"
+        },
+        {
+            "source": 404,
+            "target": 46,
+            "value": "好评药品"
+        },
+        {
+            "source": 590,
+            "target": 60,
+            "value": "生产药品"
+        },
+        {
+            "source": 121,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 38,
+            "target": 560,
+            "value": "生产药品"
+        },
+        {
+            "source": 311,
+            "target": 50,
+            "value": "宜吃"
+        },
+        {
+            "source": 462,
+            "target": 462,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 476,
+            "value": "好评药品"
+        },
+        {
+            "source": 187,
+            "target": 500,
+            "value": "忌吃"
+        },
+        {
+            "source": 261,
+            "target": 32,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 187,
+            "target": 113,
+            "value": "诊断检查"
+        },
+        {
+            "source": 89,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 290,
+            "target": 332,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 210,
+            "value": "症状"
+        },
+        {
+            "source": 447,
+            "target": 500,
+            "value": "忌吃"
+        },
+        {
+            "source": 589,
+            "target": 237,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 645,
+            "target": 17,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 244,
+            "value": "宜吃"
+        },
+        {
+            "source": 248,
+            "target": 592,
+            "value": "诊断检查"
+        },
+        {
+            "source": 231,
+            "target": 453,
+            "value": "好评药品"
+        },
+        {
+            "source": 275,
+            "target": 80,
+            "value": "生产药品"
+        },
+        {
+            "source": 534,
+            "target": 70,
+            "value": "忌吃"
+        },
+        {
+            "source": 589,
+            "target": 167,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 589,
+            "target": 281,
+            "value": "好评药品"
+        },
+        {
+            "source": 261,
+            "target": 280,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 328,
+            "target": 90,
+            "value": "生产药品"
+        },
+        {
+            "source": 612,
+            "target": 569,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 152,
+            "value": "宜吃"
+        },
+        {
+            "source": 530,
+            "target": 249,
+            "value": "好评药品"
+        },
+        {
+            "source": 447,
+            "target": 60,
+            "value": "好评药品"
+        },
+        {
+            "source": 92,
+            "target": 43,
+            "value": "症状"
+        },
+        {
+            "source": 329,
+            "target": 27,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 618,
+            "value": "忌吃"
+        },
+        {
+            "source": 370,
+            "target": 5,
+            "value": "生产药品"
+        },
+        {
+            "source": 56,
+            "target": 60,
+            "value": "生产药品"
+        },
+        {
+            "source": 447,
+            "target": 452,
+            "value": "症状"
+        },
+        {
+            "source": 207,
+            "target": 138,
+            "value": "诊断检查"
+        },
+        {
+            "source": 169,
+            "target": 85,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 512,
+            "value": "忌吃"
+        },
+        {
+            "source": 352,
+            "target": 182,
+            "value": "生产药品"
+        },
+        {
+            "source": 447,
+            "target": 491,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 165,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 600,
+            "value": "宜吃"
+        },
+        {
+            "source": 78,
+            "target": 60,
+            "value": "生产药品"
+        },
+        {
+            "source": 641,
+            "target": 603,
+            "value": "生产药品"
+        },
+        {
+            "source": 534,
+            "target": 263,
+            "value": "宜吃"
+        },
+        {
+            "source": 160,
+            "target": 569,
+            "value": "生产药品"
+        },
+        {
+            "source": 92,
+            "target": 356,
+            "value": "宜吃"
+        },
+        {
+            "source": 204,
+            "target": 307,
+            "value": "生产药品"
+        },
+        {
+            "source": 101,
+            "target": 151,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 397,
+            "value": "好评药品"
+        },
+        {
+            "source": 530,
+            "target": 560,
+            "value": "好评药品"
+        },
+        {
+            "source": 120,
+            "target": 462,
+            "value": "生产药品"
+        },
+        {
+            "source": 627,
+            "target": 85,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 397,
+            "value": "好评药品"
+        },
+        {
+            "source": 530,
+            "target": 109,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 534,
+            "target": 224,
+            "value": "症状"
+        },
+        {
+            "source": 134,
+            "target": 60,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 360,
+            "value": "诊断检查"
+        },
+        {
+            "source": 79,
+            "target": 70,
+            "value": "忌吃"
+        },
+        {
+            "source": 530,
+            "target": 528,
+            "value": "症状"
+        },
+        {
+            "source": 0,
+            "target": 46,
+            "value": "生产药品"
+        },
+        {
+            "source": 404,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 530,
+            "target": 380,
+            "value": "症状"
+        },
+        {
+            "source": 207,
+            "target": 299,
+            "value": "宜吃"
+        },
+        {
+            "source": 683,
+            "target": 317,
+            "value": "症状"
+        },
+        {
+            "source": 402,
+            "target": 339,
+            "value": "好评药品"
+        },
+        {
+            "source": 79,
+            "target": 132,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 619,
+            "target": 455,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 241,
+            "target": 320,
+            "value": "症状"
+        },
+        {
+            "source": 207,
+            "target": 422,
+            "value": "好评药品"
+        },
+        {
+            "source": 376,
+            "target": 468,
+            "value": "生产药品"
+        },
+        {
+            "source": 556,
+            "target": 603,
+            "value": "生产药品"
+        },
+        {
+            "source": 311,
+            "target": 190,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 447,
+            "target": 294,
+            "value": "症状"
+        },
+        {
+            "source": 31,
+            "target": 26,
+            "value": "生产药品"
+        },
+        {
+            "source": 437,
+            "target": 281,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 118,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 269,
+            "target": 462,
+            "value": "生产药品"
+        },
+        {
+            "source": 92,
+            "target": 446,
+            "value": "好评药品"
+        },
+        {
+            "source": 311,
+            "target": 527,
+            "value": "忌吃"
+        },
+        {
+            "source": 37,
+            "target": 332,
+            "value": "生产药品"
+        },
+        {
+            "source": 92,
+            "target": 446,
+            "value": "常用药品"
+        },
+        {
+            "source": 79,
+            "target": 356,
+            "value": "宜吃"
+        },
+        {
+            "source": 589,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 534,
+            "target": 93,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 534,
+            "target": 43,
+            "value": "症状"
+        },
+        {
+            "source": 589,
+            "target": 468,
+            "value": "常用药品"
+        },
+        {
+            "source": 92,
+            "target": 340,
+            "value": "宜吃"
+        },
+        {
+            "source": 530,
+            "target": 523,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 596,
+            "target": 285,
+            "value": "生产药品"
+        },
+        {
+            "source": 148,
+            "target": 407,
+            "value": "生产药品"
+        },
+        {
+            "source": 330,
+            "target": 307,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 465,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 425,
+            "target": 471,
+            "value": "生产药品"
+        },
+        {
+            "source": 105,
+            "target": 463,
+            "value": "所属科室"
+        },
+        {
+            "source": 261,
+            "target": 512,
+            "value": "忌吃"
+        },
+        {
+            "source": 59,
+            "target": 310,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 347,
+            "value": "好评药品"
+        },
+        {
+            "source": 683,
+            "target": 136,
+            "value": "好评药品"
+        },
+        {
+            "source": 261,
+            "target": 151,
+            "value": "好评药品"
+        },
+        {
+            "source": 231,
+            "target": 427,
+            "value": "好评药品"
+        },
+        {
+            "source": 256,
+            "target": 242,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 47,
+            "value": "好评药品"
+        },
+        {
+            "source": 231,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 125,
+            "target": 82,
+            "value": "生产药品"
+        },
+        {
+            "source": 525,
+            "target": 200,
+            "value": "属于"
+        },
+        {
+            "source": 92,
+            "target": 462,
+            "value": "好评药品"
+        },
+        {
+            "source": 207,
+            "target": 569,
+            "value": "好评药品"
+        },
+        {
+            "source": 92,
+            "target": 108,
+            "value": "诊断检查"
+        },
+        {
+            "source": 241,
+            "target": 112,
+            "value": "诊断检查"
+        },
+        {
+            "source": 426,
+            "target": 461,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 498,
+            "target": 285,
+            "value": "生产药品"
+        },
+        {
+            "source": 187,
+            "target": 292,
+            "value": "宜吃"
+        },
+        {
+            "source": 187,
+            "target": 137,
+            "value": "症状"
+        },
+        {
+            "source": 589,
+            "target": 253,
+            "value": "诊断检查"
+        },
+        {
+            "source": 492,
+            "target": 27,
+            "value": "生产药品"
+        },
+        {
+            "source": 363,
+            "target": 293,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 216,
+            "value": "症状"
+        },
+        {
+            "source": 404,
+            "target": 473,
+            "value": "常用药品"
+        },
+        {
+            "source": 652,
+            "target": 621,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 145,
+            "value": "好评药品"
+        },
+        {
+            "source": 683,
+            "target": 88,
+            "value": "好评药品"
+        },
+        {
+            "source": 187,
+            "target": 700,
+            "value": "常用药品"
+        },
+        {
+            "source": 35,
+            "target": 567,
+            "value": "生产药品"
+        },
+        {
+            "source": 241,
+            "target": 54,
+            "value": "症状"
+        },
+        {
+            "source": 557,
+            "target": 17,
+            "value": "生产药品"
+        },
+        {
+            "source": 311,
+            "target": 625,
+            "value": "症状"
+        },
+        {
+            "source": 171,
+            "target": 321,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 632,
+            "value": "诊断检查"
+        },
+        {
+            "source": 530,
+            "target": 183,
+            "value": "忌吃"
+        },
+        {
+            "source": 534,
+            "target": 17,
+            "value": "好评药品"
+        },
+        {
+            "source": 404,
+            "target": 510,
+            "value": "症状"
+        },
+        {
+            "source": 534,
+            "target": 527,
+            "value": "忌吃"
+        },
+        {
+            "source": 233,
+            "target": 382,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 531,
+            "value": "症状"
+        },
+        {
+            "source": 355,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 149,
+            "target": 545,
+            "value": "生产药品"
+        },
+        {
+            "source": 678,
+            "target": 433,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 519,
+            "value": "诊断检查"
+        },
+        {
+            "source": 241,
+            "target": 614,
+            "value": "症状"
+        },
+        {
+            "source": 236,
+            "target": 379,
+            "value": "生产药品"
+        },
+        {
+            "source": 71,
+            "target": 528,
+            "value": "症状"
+        },
+        {
+            "source": 92,
+            "target": 464,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 426,
+            "target": 271,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 447,
+            "target": 170,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 231,
+            "target": 417,
+            "value": "好评药品"
+        },
+        {
+            "source": 589,
+            "target": 436,
+            "value": "忌吃"
+        },
+        {
+            "source": 139,
+            "target": 642,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 455,
+            "value": "好评药品"
+        },
+        {
+            "source": 255,
+            "target": 476,
+            "value": "生产药品"
+        },
+        {
+            "source": 311,
+            "target": 344,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 426,
+            "target": 201,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 426,
+            "target": 114,
+            "value": "宜吃"
+        },
+        {
+            "source": 207,
+            "target": 146,
+            "value": "好评药品"
+        },
+        {
+            "source": 187,
+            "target": 152,
+            "value": "忌吃"
+        },
+        {
+            "source": 79,
+            "target": 583,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 683,
+            "target": 677,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 63,
+            "target": 466,
+            "value": "生产药品"
+        },
+        {
+            "source": 16,
+            "target": 338,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 208,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 231,
+            "target": 308,
+            "value": "好评药品"
+        },
+        {
+            "source": 530,
+            "target": 343,
+            "value": "诊断检查"
+        },
+        {
+            "source": 231,
+            "target": 401,
+            "value": "好评药品"
+        },
+        {
+            "source": 459,
+            "target": 350,
+            "value": "症状"
+        },
+        {
+            "source": 617,
+            "target": 560,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 64,
+            "value": "症状"
+        },
+        {
+            "source": 534,
+            "target": 566,
+            "value": "忌吃"
+        },
+        {
+            "source": 459,
+            "target": 203,
+            "value": "症状"
+        },
+        {
+            "source": 9,
+            "target": 80,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 104,
+            "value": "宜吃"
+        },
+        {
+            "source": 589,
+            "target": 264,
+            "value": "忌吃"
+        },
+        {
+            "source": 530,
+            "target": 153,
+            "value": "好评药品"
+        },
+        {
+            "source": 181,
+            "target": 522,
+            "value": "生产药品"
+        },
+        {
+            "source": 669,
+            "target": 131,
+            "value": "生产药品"
+        },
+        {
+            "source": 79,
+            "target": 530,
+            "value": "并发症"
+        },
+        {
+            "source": 335,
+            "target": 700,
+            "value": "生产药品"
+        },
+        {
+            "source": 409,
+            "target": 638,
+            "value": "生产药品"
+        },
+        {
+            "source": 534,
+            "target": 184,
+            "value": "宜吃"
+        },
+        {
+            "source": 470,
+            "target": 17,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 237,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 187,
+            "target": 471,
+            "value": "常用药品"
+        },
+        {
+            "source": 589,
+            "target": 15,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 530,
+            "target": 626,
+            "value": "好评药品"
+        },
+        {
+            "source": 426,
+            "target": 642,
+            "value": "好评药品"
+        },
+        {
+            "source": 447,
+            "target": 307,
+            "value": "好评药品"
+        },
+        {
+            "source": 447,
+            "target": 381,
+            "value": "诊断检查"
+        },
+        {
+            "source": 207,
+            "target": 87,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 534,
+            "target": 419,
+            "value": "诊断检查"
+        },
+        {
+            "source": 199,
+            "target": 569,
+            "value": "生产药品"
+        },
+        {
+            "source": 459,
+            "target": 500,
+            "value": "忌吃"
+        },
+        {
+            "source": 426,
+            "target": 331,
+            "value": "好评药品"
+        },
+        {
+            "source": 231,
+            "target": 26,
+            "value": "好评药品"
+        },
+        {
+            "source": 426,
+            "target": 338,
+            "value": "好评药品"
+        },
+        {
+            "source": 404,
+            "target": 456,
+            "value": "症状"
+        },
+        {
+            "source": 311,
+            "target": 70,
+            "value": "忌吃"
+        },
+        {
+            "source": 613,
+            "target": 308,
+            "value": "生产药品"
+        },
+        {
+            "source": 41,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 388,
+            "value": "忌吃"
+        },
+        {
+            "source": 270,
+            "target": 471,
+            "value": "生产药品"
+        },
+        {
+            "source": 8,
+            "target": 228,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 298,
+            "value": "症状"
+        },
+        {
+            "source": 683,
+            "target": 565,
+            "value": "宜吃"
+        },
+        {
+            "source": 683,
+            "target": 566,
+            "value": "忌吃"
+        },
+        {
+            "source": 207,
+            "target": 432,
+            "value": "诊断检查"
+        },
+        {
+            "source": 79,
+            "target": 453,
+            "value": "常用药品"
+        },
+        {
+            "source": 426,
+            "target": 209,
+            "value": "诊断检查"
+        },
+        {
+            "source": 683,
+            "target": 242,
+            "value": "好评药品"
+        },
+        {
+            "source": 231,
+            "target": 192,
+            "value": "忌吃"
+        },
+        {
+            "source": 530,
+            "target": 284,
+            "value": "症状"
+        },
+        {
+            "source": 683,
+            "target": 242,
+            "value": "常用药品"
+        },
+        {
+            "source": 207,
+            "target": 141,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 530,
+            "target": 179,
+            "value": "诊断检查"
+        },
+        {
+            "source": 447,
+            "target": 221,
+            "value": "宜吃"
+        },
+        {
+            "source": 630,
+            "target": 314,
+            "value": "生产药品"
+        },
+        {
+            "source": 226,
+            "target": 379,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 244,
+            "value": "宜吃"
+        },
+        {
+            "source": 196,
+            "target": 310,
+            "value": "生产药品"
+        },
+        {
+            "source": 79,
+            "target": 593,
+            "value": "症状"
+        },
+        {
+            "source": 459,
+            "target": 601,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 513,
+            "target": 379,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 55,
+            "value": "好评药品"
+        },
+        {
+            "source": 426,
+            "target": 477,
+            "value": "症状"
+        },
+        {
+            "source": 207,
+            "target": 472,
+            "value": "好评药品"
+        },
+        {
+            "source": 393,
+            "target": 145,
+            "value": "生产药品"
+        },
+        {
+            "source": 92,
+            "target": 500,
+            "value": "忌吃"
+        },
+        {
+            "source": 534,
+            "target": 671,
+            "value": "症状"
+        },
+        {
+            "source": 207,
+            "target": 253,
+            "value": "诊断检查"
+        },
+        {
+            "source": 426,
+            "target": 604,
+            "value": "症状"
+        },
+        {
+            "source": 311,
+            "target": 173,
+            "value": "诊断检查"
+        },
+        {
+            "source": 402,
+            "target": 603,
+            "value": "好评药品"
+        },
+        {
+            "source": 511,
+            "target": 40,
+            "value": "生产药品"
+        },
+        {
+            "source": 418,
+            "target": 410,
+            "value": "生产药品"
+        },
+        {
+            "source": 311,
+            "target": 525,
+            "value": "所属科室"
+        },
+        {
+            "source": 79,
+            "target": 419,
+            "value": "诊断检查"
+        },
+        {
+            "source": 589,
+            "target": 228,
+            "value": "好评药品"
+        },
+        {
+            "source": 195,
+            "target": 377,
+            "value": "生产药品"
+        },
+        {
+            "source": 399,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 524,
+            "target": 321,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 244,
+            "value": "忌吃"
+        },
+        {
+            "source": 71,
+            "target": 381,
+            "value": "诊断检查"
+        },
+        {
+            "source": 447,
+            "target": 453,
+            "value": "好评药品"
+        },
+        {
+            "source": 261,
+            "target": 468,
+            "value": "好评药品"
+        },
+        {
+            "source": 404,
+            "target": 247,
+            "value": "诊断检查"
+        },
+        {
+            "source": 241,
+            "target": 43,
+            "value": "症状"
+        },
+        {
+            "source": 261,
+            "target": 468,
+            "value": "常用药品"
+        },
+        {
+            "source": 530,
+            "target": 448,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 311,
+            "target": 474,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 694,
+            "target": 621,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 108,
+            "value": "诊断检查"
+        },
+        {
+            "source": 187,
+            "target": 362,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 92,
+            "target": 469,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 252,
+            "target": 466,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 580,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 92,
+            "target": 70,
+            "value": "忌吃"
+        },
+        {
+            "source": 79,
+            "target": 60,
+            "value": "好评药品"
+        },
+        {
+            "source": 207,
+            "target": 53,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 534,
+            "target": 430,
+            "value": "宜吃"
+        },
+        {
+            "source": 311,
+            "target": 84,
+            "value": "症状"
+        },
+        {
+            "source": 98,
+            "target": 293,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 646,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 534,
+            "target": 688,
+            "value": "症状"
+        },
+        {
+            "source": 447,
+            "target": 565,
+            "value": "宜吃"
+        },
+        {
+            "source": 402,
+            "target": 438,
+            "value": "忌吃"
+        },
+        {
+            "source": 207,
+            "target": 189,
+            "value": "诊断检查"
+        },
+        {
+            "source": 79,
+            "target": 282,
+            "value": "忌吃"
+        },
+        {
+            "source": 683,
+            "target": 695,
+            "value": "宜吃"
+        },
+        {
+            "source": 534,
+            "target": 555,
+            "value": "忌吃"
+        },
+        {
+            "source": 311,
+            "target": 356,
+            "value": "宜吃"
+        },
+        {
+            "source": 402,
+            "target": 188,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 117,
+            "target": 608,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 327,
+            "value": "好评药品"
+        },
+        {
+            "source": 102,
+            "target": 146,
+            "value": "生产药品"
+        },
+        {
+            "source": 261,
+            "target": 253,
+            "value": "诊断检查"
+        },
+        {
+            "source": 444,
+            "target": 136,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 602,
+            "value": "宜吃"
+        },
+        {
+            "source": 261,
+            "target": 414,
+            "value": "宜吃"
+        },
+        {
+            "source": 683,
+            "target": 406,
+            "value": "宜吃"
+        },
+        {
+            "source": 231,
+            "target": 80,
+            "value": "好评药品"
+        },
+        {
+            "source": 561,
+            "target": 136,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 94,
+            "value": "好评药品"
+        },
+        {
+            "source": 187,
+            "target": 419,
+            "value": "诊断检查"
+        },
+        {
+            "source": 421,
+            "target": 151,
+            "value": "生产药品"
+        },
+        {
+            "source": 97,
+            "target": 80,
+            "value": "生产药品"
+        },
+        {
+            "source": 616,
+            "target": 650,
+            "value": "生产药品"
+        },
+        {
+            "source": 540,
+            "target": 228,
+            "value": "生产药品"
+        },
+        {
+            "source": 61,
+            "target": 466,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 94,
+            "value": "常用药品"
+        },
+        {
+            "source": 79,
+            "target": 350,
+            "value": "症状"
+        },
+        {
+            "source": 402,
+            "target": 608,
+            "value": "好评药品"
+        },
+        {
+            "source": 530,
+            "target": 689,
+            "value": "宜吃"
+        },
+        {
+            "source": 439,
+            "target": 462,
+            "value": "生产药品"
+        },
+        {
+            "source": 260,
+            "target": 569,
+            "value": "生产药品"
+        },
+        {
+            "source": 230,
+            "target": 85,
+            "value": "生产药品"
+        },
+        {
+            "source": 231,
+            "target": 348,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 402,
+            "target": 463,
+            "value": "所属科室"
+        },
+        {
+            "source": 447,
+            "target": 419,
+            "value": "诊断检查"
+        },
+        {
+            "source": 589,
+            "target": 378,
+            "value": "宜吃"
+        },
+        {
+            "source": 402,
+            "target": 594,
+            "value": "宜吃"
+        },
+        {
+            "source": 530,
+            "target": 638,
+            "value": "好评药品"
+        },
+        {
+            "source": 402,
+            "target": 454,
+            "value": "忌吃"
+        },
+        {
+            "source": 530,
+            "target": 6,
+            "value": "诊断检查"
+        },
+        {
+            "source": 245,
+            "target": 331,
+            "value": "生产药品"
+        },
+        {
+            "source": 483,
+            "target": 163,
+            "value": "生产药品"
+        },
+        {
+            "source": 402,
+            "target": 58,
+            "value": "诊断检查"
+        },
+        {
+            "source": 71,
+            "target": 688,
+            "value": "症状"
+        },
+        {
+            "source": 506,
+            "target": 347,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 451,
+            "value": "症状"
+        },
+        {
+            "source": 52,
+            "target": 339,
+            "value": "生产药品"
+        },
+        {
+            "source": 250,
+            "target": 427,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 39,
+            "value": "好评药品"
+        },
+        {
+            "source": 71,
+            "target": 671,
+            "value": "症状"
+        },
+        {
+            "source": 79,
+            "target": 258,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 447,
+            "target": 414,
+            "value": "宜吃"
+        },
+        {
+            "source": 92,
+            "target": 586,
+            "value": "诊断检查"
+        },
+        {
+            "source": 426,
+            "target": 572,
+            "value": "症状"
+        },
+        {
+            "source": 683,
+            "target": 552,
+            "value": "好评药品"
+        },
+        {
+            "source": 426,
+            "target": 438,
+            "value": "忌吃"
+        },
+        {
+            "source": 79,
+            "target": 500,
+            "value": "忌吃"
+        },
+        {
+            "source": 530,
+            "target": 127,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 534,
+            "target": 334,
+            "value": "症状"
+        },
+        {
+            "source": 426,
+            "target": 163,
+            "value": "好评药品"
+        },
+        {
+            "source": 71,
+            "target": 544,
+            "value": "诊断检查"
+        },
+        {
+            "source": 1,
+            "target": 468,
+            "value": "生产药品"
+        },
+        {
+            "source": 157,
+            "target": 321,
+            "value": "生产药品"
+        },
+        {
+            "source": 530,
+            "target": 206,
+            "value": "诊断检查"
+        },
+        {
+            "source": 408,
+            "target": 468,
+            "value": "生产药品"
+        },
+        {
+            "source": 105,
+            "target": 554,
+            "value": "症状"
+        },
+        {
+            "source": 534,
+            "target": 656,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 289,
+            "target": 446,
+            "value": "生产药品"
+        },
+        {
+            "source": 447,
+            "target": 385,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 261,
+            "target": 516,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 194,
+            "target": 379,
+            "value": "生产药品"
+        },
+        {
+            "source": 291,
+            "target": 293,
+            "value": "生产药品"
+        },
+        {
+            "source": 319,
+            "target": 455,
+            "value": "生产药品"
+        },
+        {
+            "source": 207,
+            "target": 435,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 530,
+            "target": 655,
+            "value": "症状"
+        },
+        {
+            "source": 683,
+            "target": 268,
+            "value": "诊断检查"
+        },
+        {
+            "source": 681,
+            "target": 397,
+            "value": "生产药品"
+        },
+        {
+            "source": 589,
+            "target": 72,
+            "value": "宜吃"
+        },
+        {
+            "source": 187,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 402,
+            "target": 107,
+            "value": "症状"
+        },
+        {
+            "source": 207,
+            "target": 251,
+            "value": "好评药品"
+        },
+        {
+            "source": 261,
+            "target": 124,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 459,
+            "target": 182,
+            "value": "好评药品"
+        },
+        {
+            "source": 426,
+            "target": 58,
+            "value": "诊断检查"
+        },
+        {
+            "source": 404,
+            "target": 54,
+            "value": "症状"
+        },
+        {
+            "source": 187,
+            "target": 436,
+            "value": "忌吃"
+        },
+        {
+            "source": 447,
+            "target": 368,
+            "value": "所属科室"
+        },
+        {
+            "source": 71,
+            "target": 419,
+            "value": "诊断检查"
+        },
+        {
+            "source": 571,
+            "target": 660,
+            "value": "生产药品"
+        },
+        {
+            "source": 683,
+            "target": 494,
+            "value": "所属科室"
+        },
+        {
+            "source": 447,
+            "target": 493,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 248,
+            "target": 688,
+            "value": "症状"
+        },
+        {
+            "source": 371,
+            "target": 228,
+            "value": "生产药品"
+        },
+        {
+            "source": 315,
+            "target": 17,
+            "value": "生产药品"
+        },
+        {
+            "source": 212,
+            "target": 347,
+            "value": "生产药品"
+        },
+        {
+            "source": 187,
+            "target": 141,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 402,
+            "target": 253,
+            "value": "诊断检查"
+        },
+        {
+            "source": 447,
+            "target": 436,
+            "value": "忌吃"
+        },
+        {
+            "source": 311,
+            "target": 566,
+            "value": "忌吃"
+        },
+        {
+            "source": 80,
+            "target": 80,
+            "value": "生产药品"
+        },
+        {
+            "source": 426,
+            "target": 140,
+            "value": "忌吃"
+        },
+        {
+            "source": 231,
+            "target": 191,
+            "value": "推荐食谱"
+        },
+        {
+            "source": 534,
+            "target": 266,
+            "value": "诊断检查"
+        },
+        {
+            "source": 238,
+            "target": 309,
+            "value": "生产药品"
+        },
+        {
+            "source": 403,
+            "target": 417,
+            "value": "生产药品"
+        },
+        {
+            "source": 459,
+            "target": 419,
+            "value": "诊断检查"
+        },
+        {
+            "source": 402,
+            "target": 310,
+            "value": "常用药品"
+        }
+    ]
+}
