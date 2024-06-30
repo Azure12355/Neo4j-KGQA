@@ -10,6 +10,11 @@ class AnswerSearcher:
             password="12345678")
         self.num_limit = 20
 
+        print("Neo4j数据库初始化成功...")
+        print("KGQA_ChatBot->AnswerSearcher->初始化成功...")
+
+
+
     '''执行cypher查询，并返回相应结果'''
 
     def search_main(self, sqls):

@@ -168,7 +168,7 @@ cython_debug/
 *.pkl
 
 # ner_model模型预训练文件
-ner_model/datasets/
-ner_model/outputs/
-ner_model/prev_trained_model/
+src/main/NLPM/ner_model/datasets/
+src/main/NLPM/ner_model/outputs/
+src/main/NLPM/ner_model/prev_trained_model/
 

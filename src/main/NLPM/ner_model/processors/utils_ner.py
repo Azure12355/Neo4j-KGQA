@@ -1,7 +1,7 @@
 import csv
 import json
 import torch
-from ner_model.models.transformers import BertTokenizer
+from src.main.NLPM.ner_model.models.transformers import BertTokenizer
 
 
 class CNerTokenizer(BertTokenizer):

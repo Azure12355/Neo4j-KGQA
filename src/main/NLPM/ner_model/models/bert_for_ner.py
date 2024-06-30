@@ -6,8 +6,8 @@ from .transformers.modeling_bert import BertPreTrainedModel
 from .transformers.modeling_bert import BertModel
 from .layers.linears import PoolerEndLogits, PoolerStartLogits
 from torch.nn import CrossEntropyLoss
-from ner_model.losses.focal_loss import FocalLoss
-from ner_model.losses.label_smoothing import LabelSmoothingCrossEntropy
+from src.main.NLPM.ner_model.losses.focal_loss import FocalLoss
+from src.main.NLPM.ner_model.losses.label_smoothing import LabelSmoothingCrossEntropy
 
 class BertSoftmaxForNer(BertPreTrainedModel):
     def __init__(self, config):

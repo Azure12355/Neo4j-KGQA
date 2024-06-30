@@ -3,11 +3,11 @@
 import sys
 
 sys.path.append("")
-from ner_model.models.transformers import BertConfig
-from ner_model.models.bert_for_ner import BertCrfForNer
-from ner_model.processors.utils_ner import CNerTokenizer, get_entities
+from src.main.NLPM.ner_model.models.transformers import BertConfig
+from src.main.NLPM.ner_model.models.bert_for_ner import BertCrfForNer
+from src.main.NLPM.ner_model.processors.utils_ner import CNerTokenizer, get_entities
 import torch
-from ner_model.processors.ner_seq import ner_processors as processors
+from src.main.NLPM.ner_model.processors.ner_seq import ner_processors as processors
 
 PRETRAINED_MODEL = "D:\\Code\\GitHubProject\\medical_knowledge_graph_app-master\med_kg\\ner_model\outputs\\1101medselfner-finetune\\bert"
 

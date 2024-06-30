@@ -1,6 +1,6 @@
-from KGQA.question_classifier import *
-from KGQA.question_parser import *
-from KGQA.answer_search import *
+from src.main.python.service.KGQA.question_classifier import *
+from src.main.python.service.KGQA.question_parser import *
+from src.main.python.service.KGQA.answer_search import *
 
 '''问答类'''
 
@@ -10,7 +10,6 @@ class KGQA_Chatbot:
         self.classifier = QuestionClassifier()  # 问题分类器
         self.parser = QuestionPaser()  # 问题解析器
         self.searcher = AnswerSearcher()  # 答案搜寻器
-
 
     # 接收问题
     def receive(self, question):

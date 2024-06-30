@@ -82,5 +82,4 @@ def get_json_data(records):
             print(e)
             continue
 
-
     return result

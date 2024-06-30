@@ -2,8 +2,10 @@ import json
 
 from py2neo import Graph, Node, Relationship
 from py2neo.cypher import Cursor
-from dao.config import GraphConfig
-from dao.utils import *
+from src.main.python.dao.config import GraphConfig
+from src.main.python.dao.utils import *
+from my_utils import Utils
+import os
 
 
 # webDAO层
@@ -14,6 +16,8 @@ class GraphDAO:
             user=user,
             password=password
         )
+
+        print("GraphDAO->初始化成功...")
 
     # 测试连接
     def test_connection(self):
@@ -188,13 +192,15 @@ class GraphDAO:
     # 返回所有的节点及其关系
     @staticmethod
     def query_all_entities():
-        with open('static/all_entities.json', encoding='utf-8') as f:
+        path = os.path.join(Utils.RESOURCES_PATH, 'static/all_entities.json')
+        with open(path, encoding='utf-8') as f:
             return json.loads(f.read())
 
     # 获取实体模型
     @staticmethod
     def query_entity_model():
-        with open('static/entity_model.json', encoding='utf-8') as f:
+        path = os.path.join(Utils.RESOURCES_PATH, 'static/entity_model.json')
+        with open(path, encoding='utf-8') as f:
             return json.loads(f.read())
 
 

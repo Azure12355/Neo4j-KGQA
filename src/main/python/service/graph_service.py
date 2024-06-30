@@ -1,7 +1,7 @@
-from dao.graph import GraphDAO
-from dao.config import GraphConfig
-from KGQA.chatgpt import ChatGPT, ChatGPTConstant
-from KGQA.chatbot_graph import KGQA_Chatbot
+from src.main.python.dao.graph import GraphDAO
+from src.main.python.dao.config import GraphConfig
+from src.main.python.utils.chatgpt import ChatGPT
+from src.main.python.service.KGQA.chatbot_graph import KGQA_Chatbot
 
 
 # web服务层

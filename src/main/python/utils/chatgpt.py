@@ -54,6 +54,8 @@ class ChatGPT:
             base_url=self.base_url
         )
 
+        print("ChatGPT->初始化成功...")
+
     # 非流式响应
     def gpt_api(self, messages: list) -> str:
         """为提供的对话消息创建新的回答
