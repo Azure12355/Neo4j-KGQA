@@ -172,3 +172,5 @@ src/main/NLPM/ner_model/datasets/
 src/main/NLPM/ner_model/outputs/
 src/main/NLPM/ner_model/prev_trained_model/
 
+api-key
+

@@ -2,17 +2,14 @@ import requests
 from openai import OpenAI
 import os
 
-FREE_API_KEY = "sk-PtANUuG4EnktCbEpzrhOGiGF8fxnetLR9kpCXQDaQP3MRWEu"
-PREMIUM_API_KEY = "hk-5z7b2q1000046615e3c71f95ebf74097dcbfad47aad99fd6"
-
 
 class ChatGPTConstant:
 
     """
     API_KEY
     """
-    FREE_API_KEY = "sk-PtANUuG4EnktCbEpzrhOGiGF8fxnetLR9kpCXQDaQP3MRWEu"
-    PREMIUM_API_KEY = "hk-5z7b2q1000046615e3c71f95ebf74097dcbfad47aad99fd6"
+    FREE_API_KEY = "xxx"
+    PREMIUM_API_KEY = "xxx"
 
     """
     转发地址URL
