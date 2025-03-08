@@ -3,16 +3,25 @@ from openai import OpenAI
 import os
 
 FREE_API_KEY = "sk-PtANUuG4EnktCbEpzrhOGiGF8fxnetLR9kpCXQDaQP3MRWEu"
-PREMIUM_API_KEY = "sk-MjDZOW5dPHFb74D2NJGqRMQaNlTZJ3Y4Wdzn0LRcTdLT3UTw"
+PREMIUM_API_KEY = "hk-5z7b2q1000046615e3c71f95ebf74097dcbfad47aad99fd6"
 
 
 class ChatGPTConstant:
+
+    """
+    API_KEY
+    """
+    FREE_API_KEY = "sk-PtANUuG4EnktCbEpzrhOGiGF8fxnetLR9kpCXQDaQP3MRWEu"
+    PREMIUM_API_KEY = "hk-5z7b2q1000046615e3c71f95ebf74097dcbfad47aad99fd6"
+
     """
     转发地址URL
     """
     BASE_URL_DIRECT1 = "https://api.chatanywhere.tech/v1"  # 国内直连1
     BASE_URL_DIRECT2 = "https://api.chatanywhere.com.cn/v1"  # 国内直连2
     BASE_URL_REDIRECT = "https://api.chatanywhere.cn/v1"  # 国外转发
+
+    HK_PROXY_URL = "https://api.openai-hk.com/v1"
 
     """
     ChatGPT问答模型
@@ -45,9 +54,7 @@ class ChatGPT:
         self.base_url = base_url  # 转发地址
         self.context = []  # 用于保存每次对话的上下文
         if is_premium:
-            self.API_KEY = os.environ.get("OPENAI_API_KEY")
-        else:
-            self.API_KEY = os.environ.get("OPENAI_API_KEY")
+            self.API_KEY = ChatGPTConstant.PREMIUM_API_KEY
         self.client = OpenAI(
             # defaults to os.environ.get("OPENAI_API_KEY")
             api_key=self.API_KEY,
@@ -158,7 +165,7 @@ class ChatGPT:
 
 
 if __name__ == '__main__':
-    chat = ChatGPT(is_premium=True, gpt_model=ChatGPTConstant.GPT35_TURBO_0125)
+    chat = ChatGPT(base_url=ChatGPTConstant.HK_PROXY_URL, is_premium=True, gpt_model="gpt-4o-mini")
     print("ChatGPT: How can I help you today?")
     while True:
         question = input("User: ")

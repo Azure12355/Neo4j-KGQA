@@ -8,7 +8,7 @@ from src.main.python.service.KGQA.chatbot_graph import KGQA_Chatbot
 class GraphService:
     def __init__(self):
         self.graphDAO = GraphDAO(GraphConfig.HOST, GraphConfig.USER, GraphConfig.PASSWORD)
-        self.chatbot = ChatGPT()
+        # self.chatbot = ChatGPT()
         self.KGQA_Chatbot = KGQA_Chatbot()
 
     # 查询对应实体
